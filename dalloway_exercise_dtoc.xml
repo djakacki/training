@@ -185,11 +185,11 @@
                with books and music) thought <persName key="Clarissa Dalloway" type="fictional">Clarissa</persName>, passing the <placeName key="Aeolian Hall" type="venue">Aeolian Hall</placeName>, you can't be taken
                in by a joke.</p>
             <p>The river of <placeName key="Bond Street" type="street">Bond Street</placeName> was clogged. There, like a Queen at a tournament, raised,
-               regal, was Lady Bexborough. She sat in her carriage, upright, alone, looking through
-               her glasses. The white glove was loose at her wrist. She was in black, quite shabby,
-               yet, thought Clarissa, how extraordinarily it tells, breeding, self-respect, never
+               regal, was <persName key="Lady Bexborough">Lady Bexborough</persName>. She sat in her carriage, upright, alone, looking through
+               her glasses. The <objectName cert="high" evidence="internal" full="yes" instant="unknown" type="clothing" xml:space="default">white glove</objectName> was loose at her wrist. She was in black, quite shabby,
+               yet, thought <persName key="Clarissa Dalloway" type="fictional">Clarissa</persName>, how extraordinarily it tells, breeding, self-respect, never
                saying a word too much or letting people gossip; an astonishing friend; no one can
-               pick a hole in her after all these years, and now, there she is, thought Clarissa,
+               pick a hole in her after all these years, and now, there she is, thought <persName key="Clarissa Dalloway">Clarissa</persName>,
                passing the Countess who waited powdered, perfectly still, and Clarissa would have
                given anything to be like that, the mistress of Clarefield, talking politics, like a
                man. But she never goes anywhere, thought Clarissa, and it's quite useless to ask
