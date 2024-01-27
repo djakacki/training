@@ -16,6 +16,10 @@
     "curation": {
         "markup": [
             {
+                "xpath": "//persName[@key='Clarissa Dalloway']",
+                "label": "Mrs Dalloway"
+            },
+            {
                 "xpath": "//eventName",
                 "label": "event"
             },
@@ -30,6 +34,10 @@
             {
                 "xpath": "//placeName",
                 "label": "place"
+            },
+            {
+                "xpath": "//objectName[@type='vehicle']",
+                "label": "vehicle"
             }
         ],
         "toc": [
