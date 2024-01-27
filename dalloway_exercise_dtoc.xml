@@ -199,10 +199,10 @@
                as she entered <orgName type="store">the shop</orgName>.</p>
             <p>"Good morning" said <persName key="Clarissa Dalloway">Clarissa</persName> in her charming voice. "Gloves" she said with her
                exquisite friendliness and putting her <objectName cert="high" evidence="internal" full="yes" instant="unknown" type="accessory" xml:space="default">bag</objectName> on the counter began, very slowly, to undo
-               the buttons. "White gloves" she said. "Above the elbow" and she looked straight into
-               the shopwoman's face—but this was not the girl she remembered? She looked quite old.
-               "These really don't fit" said Clarissa. The shop girl looked at them. "Madame wears
-               bracelets?" Clarissa spread out her fingers. "Perhaps it's my rings." And the girl
+               the <objectName cert="high" evidence="internal" full="yes" instant="unknown" type="accessory" xml:space="default">buttons</objectName>. "White gloves" she said. "Above the elbow" and she looked straight into
+               the <persName type="fictional">shopwoman</persName>'s face—but this was not the girl she remembered? She looked quite old.
+               "These really don't fit" said Clarissa. The <persName>shop girl</persName> looked at them. "Madame wears
+               bracelets?" <persName key="Clarissa Dalloway" type="fictional">Clarissa</persName> spread out her fingers. "Perhaps it's my rings." And the girl
                took the grey gloves with her to the end of the counter.</p>
             <p>Yes, thought Clarissa, if it's the girl I remember she's twenty <pb n="25" facs="https://raw.githubusercontent.com/LEAF-VRE/leaf_workshops/main/exercises/MrsDalloway_in_BondStreet/dalloway_images/dalloway_06.jpg"/>
                years older. . . .
