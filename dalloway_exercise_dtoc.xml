@@ -60,12 +60,12 @@
             <byline>BY <persName>VIRGINIA WOOLF</persName></byline>
 
             <p><persName key="Clarissa Dalloway">Mrs Dalloway</persName> said she would buy the gloves herself.</p>
-            <p><objectName cert="high" evidence="internal" full="yes" instant="unknown" type="building" xml:space="default">Big Ben</objectName> was striking as she stepped out into the street. It was <time>eleven o'clock</time> and
+            <p><objectName cert="high" evidence="internal" full="yes" instant="unknown" xml:space="default" type="building">Big Ben</objectName> was striking as she stepped out into the street. It was <time>eleven o'clock</time> and
                the unused hour was fresh as if issued to children on a beach. But there was
                something solemn in the deliberate swing of the repeated strokes; something stirring
                in the murmur of wheels and the shuffle of footsteps.</p>
             <p>No doubt they were not all bound on errands of happiness. There is much more to be
-               said about us than that we walk the streets of Westminster. Big Ben too is nothing
+               said about us than that we walk <placeName>the streets of Westminster</placeName>. <objectName cert="high" evidence="internal" full="yes" instant="unknown" xml:space="default" type="building">Big Ben</objectName> too is nothing
                but steel rods consumed by rust were it not for the care of H. M.'s Office of Works.
                Only for Mrs Dalloway the moment was complete; for Mrs Dalloway June was fresh. A
                happy childhood—and it was not to his daughters only that Justin Parry had seemed a
