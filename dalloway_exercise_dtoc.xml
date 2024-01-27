@@ -239,9 +239,9 @@
                get your holiday?"</p>
             <p>"In <date>September</date>, Madame, when we're not so busy."</p>
             <pb n="26" facs="https://raw.githubusercontent.com/LEAF-VRE/leaf_workshops/main/exercises/MrsDalloway_in_BondStreet/dalloway_images/dalloway_07.jpg"/>
-            <p>When we're in the country thought Clarissa. Or shooting. She has a fortnight at
-               Brighton. In some stuffy lodging. The landlady takes the sugar. Nothing would be
-               easier than to send her to Mrs Lumley's right in the country (and it was on the tip
+            <p>When we're in the country thought <persName key="Clarissa Dalloway">Clarissa</persName>. Or shooting. She has a fortnight at
+               <placeName key="Brighton" type="city">Brighton</placeName>. In some stuffy lodging. The landlady takes the sugar. Nothing would be
+               easier than to send her to <orgName type="hotel">Mrs Lumley's</orgName> right in the country (and it was on the tip
                of her tongue). But then she remembered how on their honeymoon Dick had shown her the
                folly of giving impulsively. It was much more important, he said, to get trade with
                China. Of course he was right. And she could feel the girl wouldn't like to be given
