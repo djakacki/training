@@ -1,0 +1,39 @@
+{
+    "editionTitle": "Mrs Dalloway in Bond Street",
+    "editionSubtitle": "",
+    "ignoreNamespace": true,
+    "documents": "//div[@type='story']",
+    "documentContent": "",
+    "documentTitle": "head/title",
+    "documentAuthor": "",
+    "indexDocument": "",
+    "documentImages": "",
+    "documentNotes": "",
+    "documentLinks": "",
+    "inputs": [
+        "https://raw.githubusercontent.com/djakacki/training/main/dalloway_exercise_dtoc.xml"
+    ],
+    "curation": {
+        "markup": [
+            {
+                "xpath": "//eventName",
+                "label": "event"
+            },
+            {
+                "xpath": "//orgName",
+                "label": "group"
+            },
+            {
+                "xpath": "//persName",
+                "label": "person"
+            },
+            {
+                "xpath": "//placeName",
+                "label": "place"
+            }
+        ],
+        "toc": [
+            "07b87cbac8261a70f03f8df25c05f1747e7c58a9893aa7630d857a4484dc70a4"
+        ]
+    }
+}
