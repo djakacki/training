@@ -202,9 +202,9 @@
                the <objectName cert="high" evidence="internal" full="yes" instant="unknown" type="accessory" xml:space="default">buttons</objectName>. "White gloves" she said. "Above the elbow" and she looked straight into
                the <persName type="fictional">shopwoman</persName>'s face—but this was not the girl she remembered? She looked quite old.
                "These really don't fit" said Clarissa. The <persName>shop girl</persName> looked at them. "Madame wears
-               bracelets?" <persName key="Clarissa Dalloway" type="fictional">Clarissa</persName> spread out her fingers. "Perhaps it's my rings." And the girl
-               took the grey gloves with her to the end of the counter.</p>
-            <p>Yes, thought Clarissa, if it's the girl I remember she's twenty <pb n="25" facs="https://raw.githubusercontent.com/LEAF-VRE/leaf_workshops/main/exercises/MrsDalloway_in_BondStreet/dalloway_images/dalloway_06.jpg"/>
+               bracelets?" <persName key="Clarissa Dalloway" type="fictional">Clarissa</persName> spread out her fingers. "Perhaps it's my rings." And <persName>the girl</persName>
+               took the <objectName cert="high" evidence="internal" full="yes" instant="unknown" type="clothing" xml:space="default">grey gloves</objectName> with her to the end of the <objectName cert="high" evidence="internal" full="yes" instant="unknown" type="furniture" xml:space="default">counter</objectName>.</p>
+            <p>Yes, thought <persName key="Clarissa Dalloway" type="fictional">Clarissa</persName>, if it's the girl I remember she's twenty <pb n="25" facs="https://raw.githubusercontent.com/LEAF-VRE/leaf_workshops/main/exercises/MrsDalloway_in_BondStreet/dalloway_images/dalloway_06.jpg"/>
                years older. . . .
                There was only one other customer, sitting sideways at the counter, her elbow poised,
                her bare hand drooping, vacant; like a figure on a Japanese fan, thought Clarissa,
