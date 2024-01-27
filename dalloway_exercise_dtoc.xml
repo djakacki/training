@@ -138,8 +138,8 @@
                him now at <eventName>the <placeName key="Devonshire House" type="residence">Devonshire House</placeName> party</eventName>, about poor <persName key="Sylvia Hunt" type="fictional">Sylvia Hunt</persName> in her amber necklace
                and that dowdy old silk. <persName key="Clarissa Dalloway">Clarissa</persName> held herself upright for she had spoken aloud and
                now she was in <placeName key="Picadilly" type="street">Piccadilly</placeName>, passing the house with the slender green columns, and the
-               balconies; passing club windows full of newspapers; passing old <placeName type="residence"><persName key="Lady Burdett Coutts" type="fictional">Lady Burdett Coutts</persName>' house</placeName> where the glazed white parrot used to hang; and <placeName type="residence">Devonshire House</placeName>, without its
-               gilt leopards; and Claridge's, where she must remember Dick wanted her to leave a
+               balconies; passing club windows full of newspapers; passing old <placeName cert="high" evidence="internal" full="yes" instant="unknown" key="Lady Burdett Coutts house" xml:space="default" type="residence"><persName key="Lady Burdett Coutts" type="fictional">Lady Burdett Coutts</persName>' house</placeName> where the glazed white parrot used to hang; and <placeName cert="high" evidence="internal" full="yes" instant="unknown" key="Devonshire House" xml:space="default" type="residence">Devonshire House</placeName>, without its
+               gilt leopards; and <placeName type="store">Claridge's</placeName>, where she must remember Dick wanted her to leave a
                card on Mrs Jepson or she would be gone. Rich Americans can be very charming. There
                was St James palace; like a child's game with bricks; and now—she had passed Bond
                Street—she was by Hatchard's book shop. The <pb n="23" facs="https://raw.githubusercontent.com/LEAF-VRE/leaf_workshops/main/exercises/MrsDalloway_in_BondStreet/dalloway_images/dalloway_04.jpg"/>
