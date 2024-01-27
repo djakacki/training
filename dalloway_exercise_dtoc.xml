@@ -90,8 +90,8 @@
             <p>"I love walking in <placeName type="city">London</placeName>" said <persName key="Clarissa Dalloway">Mrs Dalloway</persName>. "Really it's better than walking in the
                country!"</p>
             <p>"We've just come up" said <persName key="Hugh Whitbread" type="fictional">Hugh Whitbread</persName>. "Unfortunately to see doctors."</p>
-            <p>"Milly?" said Mrs Dalloway, instantly compassionate.</p>
-            <p>"Out of sorts," said Hugh Whitbread. "That sort of thing. Dick all right?"</p>
+            <p>"<persName key="Milly Whitbread">Milly</persName>?" said <persName key="Clarissa Dalloway" type="fictional">Mrs Dalloway</persName>, instantly compassionate.</p>
+            <p>"Out of sorts," said <persName key="Hugh Whitbread">Hugh Whitbread</persName>. "That sort of thing. <persName key="Richard Dalloway" type="fictional">Dick</persName> all right?"</p>
             <p>"First rate!" said Clarissa.</p>
             <p>Of course, she thought, walking on, Milly is about my age—fifty—fifty-two. So it is
                probably that, Hugh's manner had said so, said it perfectly—dear old Hugh,
