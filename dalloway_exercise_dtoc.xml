@@ -2421,10 +2421,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/djakacki/training/main/dalloway_exercise_dtoc.xml?person_annotation_20240128141809949",
+	"id": "https://raw.githubusercontent.com/djakacki/training/main/dalloway_exercise_dtoc.xml?person_annotation_20240128141818505",
 	"type": "oa:Annotation",
-	"dcterms:created": "2024-01-28T19:18:09.949Z",
-	"dcterms:modified": "2024-01-28T19:18:18.505Z",
+	"dcterms:created": "2024-01-28T19:18:18.505Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/djakacki",
 		"@type": [
@@ -2435,7 +2434,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/training/main/dalloway_exercise_dtoc.xml?person_annotation_20240128141809949#Target",
+		"@id": "https://raw.githubusercontent.com/djakacki/training/main/dalloway_exercise_dtoc.xml?person_annotation_20240128141818505#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/djakacki/training/main/dalloway_exercise_dtoc.xml",
@@ -2449,7 +2448,7 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/training/main/dalloway_exercise_dtoc.xml?person_annotation_20240128141809949#Selector",
+			"@id": "https://raw.githubusercontent.com/djakacki/training/main/dalloway_exercise_dtoc.xml?person_annotation_20240128141818505#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[16]/persName[10]"
 		}
@@ -2577,10 +2576,10 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/djakacki/training/main/dalloway_exercise_dtoc.xml?title_annotation_20240128142216415",
+	"id": "https://raw.githubusercontent.com/djakacki/training/main/dalloway_exercise_dtoc.xml?title_annotation_20240128142309320",
 	"type": "oa:Annotation",
-	"dcterms:created": "2024-01-28T19:22:16.415Z",
-	"dcterms:modified": "2024-01-28T19:22:16.415Z",
+	"dcterms:created": "2024-01-28T19:23:09.320Z",
+	"dcterms:modified": "2024-01-28T19:23:24.713Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/djakacki",
 		"@type": [
@@ -2591,7 +2590,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/training/main/dalloway_exercise_dtoc.xml?title_annotation_20240128142216415#Target",
+		"@id": "https://raw.githubusercontent.com/djakacki/training/main/dalloway_exercise_dtoc.xml?title_annotation_20240128142309320#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/djakacki/training/main/dalloway_exercise_dtoc.xml",
@@ -2605,13 +2604,15 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/training/main/dalloway_exercise_dtoc.xml?title_annotation_20240128142216415#Selector",
+			"@id": "https://raw.githubusercontent.com/djakacki/training/main/dalloway_exercise_dtoc.xml?title_annotation_20240128142309320#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[16]/title[2]"
 		}
 	},
 	"oa:hasBody": {
-		"@type": "bf:Title"
+		"@type": "bf:Title",
+		"@id": "http://viaf.org/viaf/9427157527280827300005/",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -2725,7 +2726,7 @@
                Lords, Ascot, Hurlingham—what was it? What a duck, she thought, looking at the
                frontispiece of some book of memoirs spread wide in the bow window, <persName key="Joshua Reynolds" type="real">Sir Joshua</persName>
                perhaps or <persName key="George Romney" ref="http://www.wikidata.org/entity/Q371280">Romney</persName>; arch, bright, demure; the sort of girl—like her own <persName key="Elizabeth Dalloway" type="fictional">Elizabeth</persName>—the
-               only <emph cert="high" rend="italic" xml:space="default">real</emph> sort of girl. And there was that absurd book, <title key="Mr. Sponge's Sporting Tours" level="m">Soapy Sponge</title>, which <persName cert="high" evidence="internal" full="yes" instant="unknown" key="Jim" xml:space="default" type="fictional">Jim</persName> used to quote by the yard; and <title key="Shakespeare's Sonnets" level="m">Shakespeare's Sonnets</title>. She knew them
+               only <emph cert="high" rend="italic" xml:space="default">real</emph> sort of girl. And there was that absurd book, <title key="Mr. Sponge's Sporting Tours" level="m">Soapy Sponge</title>, which <persName cert="high" evidence="internal" full="yes" instant="unknown" key="Jim" xml:space="default" type="fictional">Jim</persName> used to quote by the yard; and <title key="Shakespeare, William, 1564-1616. | Sonnets" level="m" ref="http://viaf.org/viaf/9427157527280827300005/">Shakespeare's Sonnets</title>. She knew them
                by heart. <persName key="Phil" type="fictional">Phil</persName> and she had argued all day about the Dark Lady, and <persName key="Richard Dalloway">Dick</persName> had said
                straight out at dinner that night that he had never heard of her. Really, she had
                married him for that! He had never read <persName key="William Shakespeare" type="real">Shakespeare</persName>! There must be some little cheap
