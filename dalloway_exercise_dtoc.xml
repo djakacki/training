@@ -866,7 +866,7 @@
 	"id": "https://raw.githubusercontent.com/djakacki/training/main/dalloway_exercise_dtoc.xml?person_annotation_20240128134457208",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-01-28T18:44:57.208Z",
-	"dcterms:modified": "2024-01-28T18:44:57.208Z",
+	"dcterms:modified": "2024-01-28T18:46:54.411Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/djakacki",
 		"@type": [
@@ -897,7 +897,9 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson"
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://www.wikidata.org/entity/Q76927",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -972,7 +974,7 @@
                and homeliness, always ridiculous, yet how sublime, thought <persName key="Clarissa Dalloway" type="fictional">Mrs Dalloway</persName>, remembering
                <placeName type="palace" key="Kensington Gardens" ref="http://www.wikidata.org/entity/Q822607">Kensington Gardens</placeName> and the old lady in horn spectacles and being told by Nanny to
                stop dead still and bow to the <persName key="Victoria" type="real" ref="http://www.wikidata.org/entity/Q9439">Queen</persName>. The flag flew above <placeName key="Kensington Palace" type="palace" ref="http://www.wikidata.org/entity/Q207385">the Palace</placeName>. The <persName cert="high" evidence="internal" full="yes" instant="unknown" key="George V" xml:space="default" ref="http://www.wikidata.org/entity/Q269412">King</persName> and
-               <persName key="Queen Mary">Queen</persName> were back then. <persName key="Richard Dalloway" type="fictional">Dick</persName> had met her at lunch the other day—a thoroughly nice
+               <persName key="Mary of Teck" ref="http://www.wikidata.org/entity/Q76927">Queen</persName> were back then. <persName key="Richard Dalloway" type="fictional">Dick</persName> had met her at lunch the other day—a thoroughly nice
                woman. It matters so much to the poor, thought <persName key="Clarissa Dalloway">Clarissa</persName>, and to the soldiers. A <objectName cert="high" evidence="internal" full="yes" instant="unknown" type="statue" xml:space="default">man in bronze stood heroically on a pedestal with a gun</objectName> on her left hand side—<eventName cert="high" evidence="internal" full="yes" instant="unknown" type="war" xml:space="default">the South African war</eventName>. It matters, thought <persName key="Clarissa Dalloway" type="fictional">Mrs Dalloway</persName> walking towards <placeName key="Buckingham Palace" type="palace">Buckingham Palace</placeName>.
                There it stood four-square, in the broad sunshine, uncompromising, plain. But it was
                character she thought; something inborn in the race; what <orgName type="people">Indians</orgName> respected. <persName key="Queen Mary" type="both">The Queen</persName> went to hospitals, opened bazaars—<persName key="Queen Mary">the Queen of England</persName>, thought <persName>Clarissa</persName>,
