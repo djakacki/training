@@ -2499,83 +2499,6 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/djakacki/training/main/dalloway_exercise_dtoc.xml?title_annotation_20240128141823964",
-	"type": "oa:Annotation",
-	"dcterms:created": "2024-01-28T19:18:23.964Z",
-	"dcterms:modified": "2024-01-28T19:18:23.964Z",
-	"dcterms:creator": {
-		"@id": "https://github.com/djakacki",
-		"@type": [
-			"cwrc:NaturalPerson",
-			"schema:Person"
-		],
-		"cwrc:hasName": "Diane Jakacki"
-	},
-	"oa:motivatedBy": "oa:identifying",
-	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/training/main/dalloway_exercise_dtoc.xml?title_annotation_20240128141823964#Target",
-		"@type": "oa:SpecificResource",
-		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/djakacki/training/main/dalloway_exercise_dtoc.xml",
-			"@type": "dctypes:Text",
-			"dc:format": "text/xml"
-		},
-		"oa:renderedVia": {
-			"@id": "https://leaf-writer.leaf-vre.org",
-			"@type": "as:Application",
-			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.4.0"
-		},
-		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/training/main/dalloway_exercise_dtoc.xml?title_annotation_20240128141823964#Selector",
-			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[16]/title"
-		}
-	},
-	"oa:hasBody": {
-		"@type": "bf:Title"
-	},
-	"as:generator": {
-		"@id": "https://leaf-writer.leaf-vre.org",
-		"@type": "as:Application",
-		"rdfs:label": "LEAF-Writer",
-		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.4.0"
-	}
-}]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
-	"@context": {
-		"dcterms:created": {
-			"@type": "xsd:dateTime",
-			"@id": "dcterms:created"
-		},
-		"dcterms:issued": {
-			"@type": "xsd:dateTime",
-			"@id": "dcterms:issued"
-		},
-		"oa:motivatedBy": {
-			"@type": "oa:Motivation"
-		},
-		"@language": "en",
-		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
-		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
-		"as": "http://www.w3.org/ns/activitystreams#",
-		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
-		"dc": "http://purl.org/dc/elements/1.1/",
-		"dcterms": "http://purl.org/dc/terms/",
-		"foaf": "http://xmlns.com/foaf/0.1/",
-		"geo": "http://www.geonames.org/ontology#",
-		"oa": "http://www.w3.org/ns/oa#",
-		"schema": "http://schema.org/",
-		"xsd": "http://www.w3.org/2001/XMLSchema#",
-		"fabio": "https://purl.org/spar/fabio#",
-		"bf": "http://www.openlinksw.com/schemas/bif#",
-		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
-		"org": "http://www.w3.org/ns/org#"
-	},
 	"id": "https://raw.githubusercontent.com/djakacki/training/main/dalloway_exercise_dtoc.xml?title_annotation_20240128142324713",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-01-28T19:23:24.713Z",
@@ -2909,7 +2832,7 @@
                narrow crooked street, the yellow banners; the thick notched telegraph wires
                stretched across the sky.</p>
             <p>A hundred years ago her great-great-grandfather, <persName key="Seymour Parry">Seymour Parry</persName>, who ran away with
-               Conway's daughter, had walked down <placeName key="Bond Street" type="street">Bond  Street</placeName>. Down <persName key="Bond Street">Bond Street</persName> <orgName type="family">the Parrys</orgName> had
+               Conway's daughter, had walked down <placeName key="Bond Street" type="street">Bond Street</placeName>. Down <persName key="Bond Street">Bond Street</persName> <orgName type="family">the Parrys</orgName> had
                walked for a hundred years, and might have met <orgName type="family">the Dalloways</orgName> (<orgName type="family">Leighs</orgName> on the mother's
                side) going up. Her father got his clothes from <orgName type="business">Hill's</orgName>. There was a <objectName cert="high" evidence="internal" full="yes" instant="unknown" type="goods" xml:space="default">roll of cloth</objectName> in
                the <objectName cert="high" evidence="internal" full="yes" instant="unknown" type="structure" xml:space="default">window</objectName>, and here just one <objectName cert="high" evidence="internal" full="yes" instant="unknown" type="glassware" xml:space="default">jar</objectName> on a <objectName cert="high" evidence="internal" full="yes" instant="unknown" type="furniture" xml:space="default">black table</objectName>, incredibly expensive; like the
