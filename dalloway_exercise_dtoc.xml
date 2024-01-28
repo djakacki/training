@@ -3187,7 +3187,7 @@
 				<list xml:id="authors">
 					<head>Authors:</head>					
 					<item xml:id="author_list">
-						<ref target="#keat01 #shak01 #shel01"/>
+						<ref target="#keat01 #shak01 #shel01">Authors:</ref>
 								<list>
 									<head>Authors:</head>
 									<item xml:id="author_01">
@@ -3205,7 +3205,7 @@
 				<list xml:id="artists">
 					<head>Artists:</head>
 					<item xml:id="artist_list">
-						<ref target="#reyn01 #romn01"/>
+						<ref target="#reyn01 #romn01">Artists:</ref>
 						<list>
 							<item xml:id="artist_01">
 								<ref target="#reyn01">Reynolds, Joshua</ref>
