@@ -1326,7 +1326,7 @@
 	"id": "https://raw.githubusercontent.com/djakacki/training/main/dalloway_exercise_dtoc.xml?place_annotation_20240128140518064",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-01-28T19:05:18.064Z",
-	"dcterms:modified": "2024-01-28T19:05:18.064Z",
+	"dcterms:modified": "2024-01-28T19:07:18.507Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/djakacki",
 		"@type": [
@@ -1357,7 +1357,9 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:RealPlace"
+		"@type": "cwrc:RealPlace",
+		"@id": "http://www.wikidata.org/entity/Q842930",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -1448,7 +1450,7 @@
                will never know what it has lost" he had said, talking, of his own accord, about dear
                <persName key="Jack Stewart" type="fictional">Jack Stewart</persName>.</p>
             <p>She mounted the little hill lightly. The air stirred with energy. Messages were
-               passing from the Fleet to the Admiralty. <placeName cert="high" evidence="internal" full="yes" instant="unknown" type="street" xml:space="default">Piccadilly</placeName> and <placeName cert="high" evidence="internal" full="yes" instant="unknown" type="street" xml:space="default">Arlington Street</placeName> and <placeName type="street">the Mall</placeName>
+               passing from the Fleet to the Admiralty. <placeName cert="high" evidence="internal" full="yes" instant="unknown" type="street" xml:space="default">Piccadilly</placeName> and <placeName cert="high" evidence="internal" full="yes" instant="unknown" type="street" xml:space="default">Arlington Street</placeName> and <placeName type="street" key="The Mall" ref="http://www.wikidata.org/entity/Q842930">the Mall</placeName>
                seemed to chafe the very air in <placeName cert="high" evidence="internal" full="yes" instant="unknown" key="St James Park" xml:space="default" type="park">the Park</placeName> and lift its leaves hotly, brilliantly, upon
                waves of that divine vitality which <persName key="Clarissa Dalloway">Clarissa</persName> loved. To ride; to dance; she had adored
                all that. Or going long walks in the country, talking, about books, what to do with
