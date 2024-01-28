@@ -2657,7 +2657,7 @@
 	"id": "https://raw.githubusercontent.com/djakacki/training/main/dalloway_exercise_dtoc.xml?title_annotation_20240128142543199",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-01-28T19:25:43.199Z",
-	"dcterms:modified": "2024-01-28T19:25:43.199Z",
+	"dcterms:modified": "2024-01-28T19:26:32.521Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/djakacki",
 		"@type": [
@@ -2688,7 +2688,88 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "bf:Title"
+		"@type": "bf:Title",
+		"@id": "http://viaf.org/viaf/185279229/",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.4.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/djakacki/training/main/dalloway_exercise_dtoc.xml?person_annotation_20240128142637663",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-01-28T19:26:37.663Z",
+	"dcterms:modified": "2024-01-28T19:26:51.956Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/djakacki",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Diane Jakacki"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/djakacki/training/main/dalloway_exercise_dtoc.xml?person_annotation_20240128142637663#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/djakacki/training/main/dalloway_exercise_dtoc.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.4.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/djakacki/training/main/dalloway_exercise_dtoc.xml?person_annotation_20240128142637663#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/p[16]/persName[15]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://www.wikidata.org/entity/Q692",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -2805,8 +2886,8 @@
                only <emph cert="high" rend="italic" xml:space="default">real</emph> sort of girl. And there was that absurd book, <title key="Mr. Sponge's Sporting Tours" level="m">Soapy Sponge</title>, which <persName cert="high" evidence="internal" full="yes" instant="unknown" key="Jim" xml:space="default" type="fictional">Jim</persName> used to quote by the yard; and <title key="Shakespeare, William, 1564-1616. | Sonnets" level="m" ref="http://viaf.org/viaf/9427157527280827300005/">Shakespeare's Sonnets</title>. She knew them
                by heart. <persName key="Phil" type="fictional">Phil</persName> and she had argued all day about the Dark Lady, and <persName key="Richard Dalloway">Dick</persName> had said
                straight out at dinner that night that he had never heard of her. Really, she had
-               married him for that! He had never read <persName key="William Shakespeare" type="real">Shakespeare</persName>! There must be some little cheap
-               book she could buy for <persName key="Milly Whitbread" type="fictional">Milly</persName>—<title key="Cranford" level="m">Cranford</title> of course! Was there ever anything so
+               married him for that! He had never read <persName key="William Shakespeare" type="real" ref="http://www.wikidata.org/entity/Q692">Shakespeare</persName>! There must be some little cheap
+               book she could buy for <persName key="Milly Whitbread" type="fictional">Milly</persName>—<title key="Gaskell, Elizabeth Cleghorn, 1810-1865. | Cranford" level="m" ref="http://viaf.org/viaf/185279229/">Cranford</title> of course! Was there ever anything so
                enchanting as the cow in petticoats? If only people had that sort of humour, that
                sort of self-respect now, thought <persName key="Clarissa Dalloway">Clarissa</persName>, for she remembered the broad pages; the
                sentences ending; the characters—how one talked about them as if they were real. For
