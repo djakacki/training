@@ -2766,7 +2766,7 @@
                its thin trees Victoria's white mound, Victoria's billowing motherliness, amplitude
                and homeliness, always ridiculous, yet how sublime, thought <persName key="Clarissa Dalloway" type="fictional">Mrs Dalloway</persName>, remembering
                <placeName type="palace" key="Kensington Gardens" ref="http://www.wikidata.org/entity/Q822607">Kensington Gardens</placeName> and the <persName key="Victoria" ref="http://www.wikidata.org/entity/Q9439">old lady in horn spectacles</persName> and being told by Nanny to
-               stop dead still and bow to the <persName key="Victoria" type="real" ref="http://www.wikidata.org/entity/Q9439">Queen</persName>. The flag flew above <placeName key="Buckingham Palace" type="palace" ref="http://www.wikidata.org/entity/Q42182">the Palace</placeName>. The <persName cert="high" evidence="internal" full="yes" instant="unknown" key="George V" xml:space="default" ref="http://www.wikidata.org/entity/Q269412">King</persName> and
+               stop dead still and bow to the <persName key="Victoria" type="real" ref="http://www.wikidata.org/entity/Q9439">Queen</persName>. The flag flew above <placeName key="Buckingham Palace" type="palace" ref="http://www.wikidata.org/entity/Q42182">the Palace</placeName>. The <persName xml:id="geor01" cert="high" evidence="internal" full="yes" instant="unknown" key="George V" xml:space="default" ref="http://www.wikidata.org/entity/Q269412">King</persName> and
                <persName key="Mary of Teck" ref="http://www.wikidata.org/entity/Q76927">Queen</persName> were back then. <persName key="Richard Dalloway" type="fictional">Dick</persName> had met her at lunch the other day—a thoroughly nice
                woman. It matters so much to the poor, thought <persName key="Clarissa Dalloway">Clarissa</persName>, and to the soldiers. A <objectName cert="high" evidence="internal" full="yes" instant="unknown" type="statue" xml:space="default">man in bronze stood heroically on a pedestal with a gun</objectName> on her left hand side—<eventName cert="high" evidence="internal" full="yes" instant="unknown" type="war" xml:space="default">the South African war</eventName>. It matters, thought <persName key="Clarissa Dalloway" type="fictional">Mrs Dalloway</persName> walking towards <placeName key="Buckingham Palace" type="palace" ref="http://www.wikidata.org/entity/Q42182">Buckingham Palace</placeName>.
                There it stood four-square, in the broad sunshine, uncompromising, plain. But it was
@@ -2793,7 +2793,7 @@
                now can never mourn—how did it go?—a head grown grey. . . . From the contagion of the
                world's slow stain . . . have drunk their cup a round or two before. . . . From the
                contagion of the world's slow stain! She held herself upright.</p>
-            <p>But how <persName cert="high" evidence="internal" full="yes" instant="unknown" key="Jack Stewart" xml:space="default" type="fictional">Jack</persName> would have shouted! Quoting <persName key="Percy Bysshe Shelley" type="real" ref="http://www.wikidata.org/entity/Q93343">Shelley</persName>, in <placeName key="Piccadilly" ref="http://www.wikidata.org/entity/Q1124023">Piccadilly</placeName>! "You want a pin," he
+            <p>But how <persName cert="high" evidence="internal" full="yes" instant="unknown" key="Jack Stewart" xml:space="default" type="fictional">Jack</persName> would have shouted! Quoting <persName xml:id="shel01" key="Percy Bysshe Shelley" type="real" ref="http://www.wikidata.org/entity/Q93343">Shelley</persName>, in <placeName key="Piccadilly" ref="http://www.wikidata.org/entity/Q1124023">Piccadilly</placeName>! "You want a pin," he
                would have said. He hated frumps. "My God <persName key="Clarissa Dalloway" type="fictional">Clarissa</persName>! My God <persName key="Clarissa Dalloway">Clarissa</persName>!"—she could hear
                him now at <eventName>the <placeName key="Devonshire House" type="residence" ref="http://www.wikidata.org/entity/Q5267865">Devonshire House</placeName> party</eventName>, about poor <persName key="Sylvia Hunt" type="fictional">Sylvia Hunt</persName> in her amber necklace
                and that dowdy old silk. <persName key="Clarissa Dalloway">Clarissa</persName> held herself upright for she had spoken aloud and
@@ -2804,13 +2804,13 @@
                was <placeName key="St James's Palace" type="palace" ref="http://www.wikidata.org/entity/Q272162">St James palace</placeName>; like a child's game with bricks; and now—she had passed <placeName key="Bond Street" type="street" ref="http://www.wikidata.org/entity/Q892187">Bond Street</placeName>—she was by <placeName key="Hatchard's book shop" type="business">Hatchard's book shop</placeName>. The 
                stream was endless—endless—endless.
                Lords, Ascot, Hurlingham—what was it? What a duck, she thought, looking at the
-               frontispiece of some book of memoirs spread wide in the bow window, <persName key="Joshua Reynolds" type="real">Sir Joshua</persName>
-               perhaps or <persName key="George Romney" ref="http://www.wikidata.org/entity/Q371280">Romney</persName>; arch, bright, demure; the sort of girl—like her own <persName key="Elizabeth Dalloway" type="fictional">Elizabeth</persName>—the
-               only <emph cert="high" rend="italic" xml:space="default">real</emph> sort of girl. And there was that absurd book, <title key="Mr. Sponge's Sporting Tours" level="m">Soapy Sponge</title>, which <persName cert="high" evidence="internal" full="yes" instant="unknown" key="Jim" xml:space="default" type="fictional">Jim</persName> used to quote by the yard; and <title key="Shakespeare, William, 1564-1616. | Sonnets" level="m" ref="http://viaf.org/viaf/9427157527280827300005/">Shakespeare's Sonnets</title>. She knew them
+               frontispiece of some book of memoirs spread wide in the bow window, <persName xml:id="reyn01" key="Joshua Reynolds" type="real">Sir Joshua</persName>
+               perhaps or <persName xml:id="romn01" key="George Romney" ref="http://www.wikidata.org/entity/Q371280">Romney</persName>; arch, bright, demure; the sort of girl—like her own <persName key="Elizabeth Dalloway" type="fictional">Elizabeth</persName>—the
+               only <emph cert="high" rend="italic" xml:space="default">real</emph> sort of girl. And there was that absurd book, <title xml:id="spon01" key="Mr. Sponge's Sporting Tours" level="m">Soapy Sponge</title>, which <persName cert="high" evidence="internal" full="yes" instant="unknown" key="Jim" xml:space="default" type="fictional">Jim</persName> used to quote by the yard; and <title xml:id="sonn01" key="Shakespeare, William, 1564-1616. | Sonnets" level="m" ref="http://viaf.org/viaf/9427157527280827300005/">Shakespeare's Sonnets</title>. She knew them
                by heart. <persName key="Phil" type="fictional">Phil</persName> and she had argued all day about the Dark Lady, and <persName key="Richard Dalloway">Dick</persName> had said
                straight out at dinner that night that he had never heard of her. Really, she had
-               married him for that! He had never read <persName key="William Shakespeare" type="real" ref="http://www.wikidata.org/entity/Q692">Shakespeare</persName>! There must be some little cheap
-               book she could buy for <persName key="Milly Whitbread" type="fictional">Milly</persName>—<title key="Gaskell, Elizabeth Cleghorn, 1810-1865. | Cranford" level="m" ref="http://viaf.org/viaf/185279229/">Cranford</title> of course! Was there ever anything so
+               married him for that! He had never read <persName xml:id="shak01" key="William Shakespeare" type="real" ref="http://www.wikidata.org/entity/Q692">Shakespeare</persName>! There must be some little cheap
+               book she could buy for <persName key="Milly Whitbread" type="fictional">Milly</persName>—<title xml:id="cran01" key="Gaskell, Elizabeth Cleghorn, 1810-1865. | Cranford" level="m" ref="http://viaf.org/viaf/185279229/">Cranford</title> of course! Was there ever anything so
                enchanting as the cow in petticoats? If only people had that sort of humour, that
                sort of self-respect now, thought <persName key="Clarissa Dalloway">Clarissa</persName>, for she remembered the broad pages; the
                sentences ending; the characters—how one talked about them as if they were real. For
@@ -2836,17 +2836,17 @@
                walked for a hundred years, and might have met <orgName type="family">the Dalloways</orgName> (<orgName type="family">Leighs</orgName> on the mother's
                side) going up. Her father got his clothes from <orgName type="business">Hill's</orgName>. There was a <objectName cert="high" evidence="internal" full="yes" instant="unknown" type="goods" xml:space="default">roll of cloth</objectName> in
                the <objectName cert="high" evidence="internal" full="yes" instant="unknown" type="structure" xml:space="default">window</objectName>, and here just one <objectName cert="high" evidence="internal" full="yes" instant="unknown" type="glassware" xml:space="default">jar</objectName> on a <objectName cert="high" evidence="internal" full="yes" instant="unknown" type="furniture" xml:space="default">black table</objectName>, incredibly expensive; like the
-               thick pink salmon on the <objectName>ice block</objectName> at the <orgName type="store">fishmonger's</orgName>. The jewels were
-               exquisite—pink and orange stars, paste, Spanish, she thought, and chains of old gold;
-               starry buckles, little brooches which had been worn on sea green satin by ladies with
+               thick pink salmon on the <objectName>ice block</objectName> at the <orgName type="store">fishmonger's</orgName>. The <objectName type="jewelry">jewels</objectName> were
+               exquisite—<objectName type="jewelry">pink and orange stars</objectName>, paste, Spanish, she thought, and <objectName type="jewelry">chains of old gold</objectName>;
+               <objectName type="jewelry">starry buckles</objectName>, <objectName type="jewelry">little brooches</objectName> which had been worn on sea green satin by ladies with
                high head-dresses. But no good looking! One must economize. She must go on past the
-               picture dealer's where one of the odd French pictures hung, as if people had thrown
+               <orgName type="store">picture dealer's</orgName> where one of the odd French pictures hung, as if people had thrown
                confetti—pink and blue—for a joke. If you had lived with pictures (and it's the same
                with books and music) thought <persName key="Clarissa Dalloway" type="fictional">Clarissa</persName>, passing the <placeName key="Aeolian Hall" type="venue">Aeolian Hall</placeName>, you can't be taken
                in by a joke.</p>
             <p>The river of <placeName key="Bond Street" type="street">Bond Street</placeName> was clogged. There, like a Queen at a tournament, raised,
-               regal, was <persName key="Lady Bexborough">Lady Bexborough</persName>. She sat in her carriage, upright, alone, looking through
-               her glasses. The <objectName cert="high" evidence="internal" full="yes" instant="unknown" type="clothing" xml:space="default">white glove</objectName> was loose at her wrist. She was in black, quite shabby,
+               regal, was <persName key="Lady Bexborough">Lady Bexborough</persName>. She sat in her <objectName type="vehicle">carriage</objectName>, upright, alone, looking through
+               her <objectName type="accessory">glasses</objectName>. The <objectName cert="high" evidence="internal" full="yes" instant="unknown" type="clothing" xml:space="default">white glove</objectName> was loose at her wrist. She was in black, quite shabby,
                yet, thought <persName key="Clarissa Dalloway" type="fictional">Clarissa</persName>, how extraordinarily it tells, breeding, self-respect, never
                saying a word too much or letting people gossip; an astonishing friend; no one can
                pick a hole in her after all these years, and now, there she is, thought <persName key="Clarissa Dalloway">Clarissa</persName>,
@@ -2857,43 +2857,43 @@
                tournament, though she had nothing to live for and <persName key="Lord Bexborough" type="fictional">the old man</persName> is failing and they
                <persName key="Lady Bexborough">say</persName> she is sick of it all, thought <persName key="Clarissa Dalloway" type="fictional">Clarissa</persName> and the tears actually rose to her eyes
                as she entered <orgName type="store">the shop</orgName>.</p>
-            <p>"Good morning" said <persName key="Clarissa Dalloway">Clarissa</persName> in her charming voice. "Gloves" she said with her
-               exquisite friendliness and putting her <objectName cert="high" evidence="internal" full="yes" instant="unknown" type="accessory" xml:space="default">bag</objectName> on the counter began, very slowly, to undo
-               the <objectName cert="high" evidence="internal" full="yes" instant="unknown" type="accessory" xml:space="default">buttons</objectName>. "White gloves" she said. "Above the elbow" and she looked straight into
+            <p>"Good morning" said <persName key="Clarissa Dalloway">Clarissa</persName> in her charming voice. "<objectName type="accessory">Gloves</objectName>" she said with her
+               exquisite friendliness and putting her <objectName cert="high" evidence="internal" full="yes" instant="unknown" type="accessory" xml:space="default">bag</objectName> on the <objectName type="furniture">counter</objectName> began, very slowly, to undo
+               the <objectName cert="high" evidence="internal" full="yes" instant="unknown" type="accessory" xml:space="default">buttons</objectName>. "<objectName type="clothing">White gloves</objectName>" she said. "Above the elbow" and she looked straight into
                the <persName type="fictional">shopwoman</persName>'s face—but this was not the girl she remembered? She looked quite old.
                "These really don't fit" said Clarissa. The <persName>shop girl</persName> looked at them. "Madame wears
-               bracelets?" <persName key="Clarissa Dalloway" type="fictional">Clarissa</persName> spread out her fingers. "Perhaps it's my rings." And <persName>the girl</persName>
+               bracelets?" <persName key="Clarissa Dalloway" type="fictional">Clarissa</persName> spread out her fingers. "Perhaps it's my <objectName type="jewelry">rings</objectName>." And <persName>the girl</persName>
                took the <objectName cert="high" evidence="internal" full="yes" instant="unknown" type="clothing" xml:space="default">grey gloves</objectName> with her to the end of the <objectName cert="high" evidence="internal" full="yes" instant="unknown" type="furniture" xml:space="default">counter</objectName>.</p>
             <p>Yes, thought <persName key="Clarissa Dalloway" type="fictional">Clarissa</persName>, if it's the girl I remember she's twenty 
                years older. . . .
-               There was only one other customer, sitting sideways at the counter, her elbow poised,
+               There was only one other <persName>customer</persName>, sitting sideways at the <objectName type="furniture">counter</objectName>, her elbow poised,
                her bare hand drooping, vacant; like a figure on a Japanese fan, thought <persName key="Clarissa Dalloway">Clarissa</persName>,
                too vacant perhaps, yet some men would adore her. The lady shook her head sadly.
-               Again the gloves were too large. She turned round the glass. "Above the wrist" she
-               reproached the grey-headed woman; who looked and agreed.</p>
-            <p>They waited; a clock ticked; <placeName key="Bond Street" type="street">Bond Street</placeName> hummed, dulled, distant; the woman went away
-               holding gloves. "Above the wrist" said the lady, mournfully, raising her voice. And
+               Again the <objectName type="clothing">gloves</objectName> were too large. She turned round the <objectName type="furniture">glass</objectName>. "Above the wrist" she
+               reproached the grey-headed <persName>woman</persName>; who looked and agreed.</p>
+            <p>They waited; a clock ticked; <placeName key="Bond Street" type="street">Bond Street</placeName> hummed, dulled, distant; the <persName>woman</persName> went away
+               holding <objectName type="clothing">gloves</objectName>. "Above the wrist" said the lady, mournfully, raising her voice. And
                she would have to order chairs, ices, flowers, and cloak-room tickets, thought
                <persName key="Clarissa Dalloway" type="fictional">Clarissa</persName>. The people she didn't want would come; the others wouldn't. She would stand
-               by the door. They sold stockings—silk stockings. A lady is known by her gloves and
-               her shoes, old <persName key="Uncle William (Parry?)">Uncle William</persName> used to say. And through the hanging silk stockings
+               by the door. They sold <objectName type="clothing">stockings</objectName>—<objectName type="clothing">silk stockings</objectName>. A lady is known by her <objectName type="clothing">gloves</objectName> and
+               her <objectName type="clothing">shoes</objectName>, old <persName key="Uncle William (Parry?)">Uncle William</persName> used to say. And through the hanging <objectName type="clothing">silk stockings</objectName>
                quivering silver she looked at the lady, sloping shouldered, her hand drooping, her
                bag slipping, her eyes vacantly on the floor. It would be intolerable if dowdy women
-               came to her party! Would one have liked <persName key="John Keats" type="real">Keats</persName> if he had worn red socks? Oh, at
-               last—she drew into the counter and it flashed into her mind:</p>
-            <p>"Do you remember before the war you had gloves with pearl buttons?"</p>
+               came to her party! Would one have liked <persName xml:id="keat01" key="John Keats" type="real">Keats</persName> if he had worn <objectName type="clothing">red socks</objectName>? Oh, at
+               last—she drew into the <objectName type="furniture">counter</objectName> and it flashed into her mind:</p>
+            <p>"Do you remember before the war you had <objectName type="clothing">gloves with pearl buttons</objectName>?"</p>
             <p>"French gloves, Madame?"</p>
-            <p>"Yes, they were French" said <persName key="Clarissa Dalloway" type="fictional">Clarissa</persName>. The other lady rose very sadly and took her
-               bag, and looked at the gloves on the counter. But they were all too large—always too
+            <p>"Yes, they were French" said <persName key="Clarissa Dalloway" type="fictional">Clarissa</persName>. The other <persName type="fictional">lady</persName> rose very sadly and took her
+               <objectName type="accessory">bag</objectName>, and looked at the <objectName type="clothing">gloves</objectName> on the <objectName type="furniture">counter</objectName>. But they were all too large—always too
                large at the wrist.</p>
             <p>"With pearl buttons" said the shop-girl, who looked ever so much older. She split the
-               lengths of tissue paper apart on the counter. With pearl buttons, thought <persName key="Clarissa Dalloway">Clarissa</persName>,
+               lengths of tissue paper apart on the <objectName type="furniture">counter</objectName>. With pearl buttons, thought <persName key="Clarissa Dalloway">Clarissa</persName>,
                perfectly simple—how French!</p>
-            <p>"Madame's hands are so slender" said the <persName type="fictional">shop girl</persName>, drawing the glove firmly,
-               smoothly, down over her rings. And <persName key="Clarissa Dalloway">Clarissa</persName> looked at her arm in the looking glass.
-               The glove hardly came to the elbow. Were there others half an inch longer? Still it
+            <p>"Madame's hands are so slender" said the <persName type="fictional">shop girl</persName>, drawing the <objectName type="clothing">glove</objectName> firmly,
+               smoothly, down over her rings. And <persName key="Clarissa Dalloway">Clarissa</persName> looked at her arm in the <objectName type="furniture">looking glass</objectName>.
+               The <objectName type="clothing">glove</objectName> hardly came to the elbow. Were there others half an inch longer? Still it
                seemed tiresome to bother her—perhaps the one day in the month, thought <persName key="Clarissa Dalloway" type="fictional">Clarissa</persName>,
-               when it's an agony to stand. "Oh, don't bother" she said. But the gloves were
+               when it's an agony to stand. "Oh, don't bother" she said. But the <objectName type="clothing">gloves</objectName> were
                brought.</p>
             <p>"Don't you get fearfully tired" she said in her charming voice, "standing? When d'you
                get your holiday?"</p>
@@ -2908,45 +2908,83 @@
                things. There she was in her place. So was <persName key="Richard Dalloway">Dick</persName>. Selling gloves was her job. She had
                her own sorrows quite separate, "and now can never mourn, can never mourn" the words
                ran in her head, "From the contagion of the world's slow stain" thought <persName key="Clarissa Dalloway" type="fictional">Clarissa</persName>
-               holding her arm stiff, for there are moments when it seems utterly futile (the glove
+               holding her arm stiff, for there are moments when it seems utterly futile (the <objectName type="clothing">glove</objectName>
                was drawn off leaving her arm flecked with powder)—simply one doesn't believe,
                thought <persName key="Clarissa Dalloway">Clarissa</persName>, any more in God.</p>
-            <p>The traffic suddenly roared; the silk stockings brightened. A customer came in.</p>
-            <p>"White gloves," she said, with some ring in her voice that <persName key="Clarissa Dalloway" type="fictional">Clarissa</persName> remembered.</p>
+            <p>The traffic suddenly roared; the <objectName type="clothing">silk stockings</objectName> brightened. A <persName type="fictional">customer</persName> came in.</p>
+            <p>"<objectName type="clothing">White gloves</objectName>," she said, with some ring in her voice that <persName key="Clarissa Dalloway" type="fictional">Clarissa</persName> remembered.</p>
             <p>It used, thought <persName key="Clarissa Dalloway">Clarissa</persName>, to be so simple. Down down through the air came the caw of
                the rooks. When <persName key="Sylvia" type="fictional">Sylvia</persName> died, hundreds of years ago, the yew hedges looked so lovely
                with the diamond webs in the mist before early church. But if <persName key="Richard Dalloway">Dick</persName> were to die
                to-morrow as for believing in God—no, she would let the children choose, but for
                herself, like <persName key="Lady Bexborough" type="fictional">Lady Bexborough</persName>, who opened the bazaar, they say, with the telegram in
                her hand—Roden, her favourite, killed—she would go on. But why, if one doesn't
-               believe? For the sake of others, she thought, taking the glove in her hand. This girl
+               believe? For the sake of others, she thought, taking the <objectName type="clothing">glove</objectName> in her hand. This girl
                would be much more unhappy if she didn't believe.</p>
-            <p>"Thirty shillings" said the <persName>shopwoman</persName>. "No, pardon me Madame, thirty-five. The French
-               gloves are more."</p>
+            <p>"<measure quantity="30" type="currency">Thirty shillings</measure>" said the <persName>shopwoman</persName>. "No, pardon me Madame, <measure quantity="35" type="currency">thirty-five</measure>. The <objectName type="clothing">French gloves</objectName> are more."</p>
             <p>For one doesn't live for oneself, thought <persName key="Clarissa Dalloway" type="fictional">Clarissa</persName>.</p>
-            <p>And then the other customer took a glove, tugged it, and it split.</p>
+            <p>And then the other <persName type="fictional">customer</persName> took a <objectName type="clothing">glove</objectName>, tugged it, and it split.</p>
             <p>"There!" she exclaimed.</p>
-            <p>"A fault of the skin," said the grey-headed woman hurriedly. "Sometimes a drop of
+            <p>"A fault of the skin," said the <persName type="fictional">grey-headed woman</persName> hurriedly. "Sometimes a drop of
                acid in tanning. Try this pair, Madame."</p>
             <p>"But it's an awful swindle to ask two pound ten!"</p>
-            <p><persName key="Clarissa Dalloway">Clarissa</persName> looked at the lady; the lady looked at <persName key="Clarissa Dalloway" type="fictional">Clarissa</persName>.</p>
-            <p>"Gloves have never been quite so reliable since the war" said the <persName>shop-girl</persName>,
+            <p><persName key="Clarissa Dalloway">Clarissa</persName> looked at the <persName type="fictional">lady</persName>; the <persName type="fictional">lady</persName> looked at <persName key="Clarissa Dalloway" type="fictional">Clarissa</persName>.</p>
+            <p>"<objectName type="clothing">Gloves</objectName> have never been quite so reliable since <eventName key="World War I">the war</eventName>" said the <persName type="fictional">shop-girl</persName>,
                apologizing, to <persName key="Clarissa Dalloway" type="fictional">Clarissa</persName>.</p>
             
             <p>But where had she seen the other lady?—elderly, with a frill under her chin; wearing
-               a black ribbon for gold eyeglasses; sensual, clever, like a<objectName cert="high" evidence="internal" full="yes" instant="unknown" type="artwork" xml:space="default"> <persName key="John Singer Sargent" type="real">Sargent</persName> drawing</objectName>. How one
+               a <objectName type="accessory">black ribbon for gold eyeglasses</objectName>; sensual, clever, like a<objectName cert="high" evidence="internal" full="yes" instant="unknown" type="artwork" xml:space="default"> <persName key="John Singer Sargent" type="real">Sargent</persName> drawing</objectName>. How one
                can tell from a voice when people are in the habit, thought <persName key="Clarissa Dalloway" type="fictional">Clarissa</persName>, of making other
-               people—"It's a shade too tight" she said—obey. The <persName>shopwoman</persName> went off again. <persName key="Clarissa Dalloway">Clarissa</persName>
-               was left waiting. Fear no more she repeated, playing her finger on the counter. Fear
+               people—"It's a shade too tight" she said—obey. The <persName type="fictional">shopwoman</persName> went off again. <persName key="Clarissa Dalloway">Clarissa</persName>
+               was left waiting. Fear no more she repeated, playing her finger on the <objectName type="furniture">counter</objectName>. Fear
                no more the heat o' the sun. Fear no more she repeated. There were little brown spots
                on her arm. And the girl crawled like a snail. Thou thy wordly task hast done.
                Thousands of young men had died that things might go on. At last! Half an inch above
                the elbow; pearl buttons; five and a quarter. My dear slow coach, thought <persName key="Clarissa Dalloway" type="fictional">Clarissa</persName>,
-               do you think I can sit here the whole morning? Now you'll take twenty-five minutes to
+               do you think I can sit here the whole morning? Now you'll take <time>twenty-five minutes</time> to
                bring me my change!</p>
-            <p>There was a violent explosion in the street outside. The shopwomen cowered behind the
-               counters. But <persName key="Clarissa Dalloway">Clarissa</persName>, sitting very up-right, smiled at the other lady. "<persName key="Miss Anstruther" type="fictional">Miss Anstruther</persName>!" she exclaimed.</p>
+            <p>There was a <eventName>violent explosion</eventName> in the <placeName key="Bond Street">street</placeName> outside. The <orgName type="fictional">shopwomen</orgName> cowered behind the
+               <objectName type="furniture">counters</objectName>. But <persName key="Clarissa Dalloway">Clarissa</persName>, sitting very up-right, smiled at the other lady. "<persName key="Miss Anstruther" type="fictional">Miss Anstruther</persName>!" she exclaimed.</p>
          </div>
+      	
+      	<div type="list">
+      		<list xml:id="per_his">
+      			<head>Historical People</head>
+      		<item>
+      			<list xml:id="per_aut">
+      			<head>Authors:</head>
+      			<item>
+      				<ref target="#keat01">Keats, John</ref>
+      			</item>
+      			<item>
+      				<ref target="#shak01 #">Shakespeare, William</ref>
+      			</item>
+      			<item>
+      				<ref target="#shel01">Shelley, Percy Bysshe</ref>
+      			</item>
+      		</list>
+      		<list xml:id="per_art">
+      			<head>Artists:</head>
+      			<item>
+      				<ref target="#reyn01">Reynolds, Joshua</ref>
+      			</item>
+      			<item>
+      				<ref target="#romn01">Romney, George</ref>
+      			</item>
+      		</list>
+      		<list xml:id="per_mon">
+      			<head>Monarchs:</head>
+      			<item>
+      				<ref>King George V</ref>
+      			</item>
+      			<item>
+      				<ref>Queen Mary (wife of George V)</ref>
+      			</item>
+      			<item>
+      				<ref>Queen Victoria</ref>
+      			</item>
+      		</list></item></list>
+      	</div>
 
       </body>
    </text>
