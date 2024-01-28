@@ -1,48 +1,62 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://cwrc.ca/templates/css/tei.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-   <teiHeader xml:lang="en">
-      <fileDesc>
-         <titleStmt>
-            <title>Mrs Dalloway in Bond Street</title>
-            <author>Virginia Woolf</author>
-            <respStmt>
-               <name>
-                  <orgName>Project Gutenberg</orgName>
-               </name>
-               <resp>Publisher</resp>
-            </respStmt>
-            <respStmt>
-               <persName>Laura Natal Rodrigues</persName>
-               <orgName>Free Literature</orgName>
-               <resp>Transcriber</resp>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <distributor>Project Gutenberg: text</distributor>
-            <availability>
-               <licence>This eBook is for the use of anyone anywhere at no cost and with almost no
-                  restrictions whatsoever. You may copy it, give it away or re-use it under the
-                  terms of the Project Gutenberg License included with this eBook or online at
-                  www.gutenberg.org/license </licence>               
-            </availability>
-            <ref>https://www.gutenberg.org/ebooks/63107</ref>
-            <distributor>Hathi Trust: page images</distributor>
-            <availability>
-               <licence source="https://www.hathitrust.org/the-collection/search-access/access-use-policy/#pd-google">Public domain, Google-digitized, courtesy of Hathi Trust</licence>
-               <p/>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <bibl>
-               <publisher>The Dial Publishing Company</publisher>
-               <title type="journal">The Dial</title>
-               <edition>Volume LXXV</edition>
-               <date>July to December, 1923</date>
-            </bibl>
-         </sourceDesc>
-      </fileDesc>
-      <xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#">
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://cwrc.ca/templates/css/tei.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title>Mrs Dalloway in Bond Street</title>
+				<author>Virginia Woolf</author>
+				<respStmt>
+					<name>
+						<orgName>Project Gutenberg</orgName>
+					</name>
+					<resp>Publisher</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Laura Natal Rodrigues</persName>
+					<orgName>Free Literature</orgName>
+					<resp>Transcriber</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Project Gutenberg: text</distributor>
+				<availability>
+					<licence>This eBook is for the use of anyone anywhere at no cost and with almost
+						no restrictions whatsoever. You may copy it, give it away or re-use it under
+						the terms of the Project Gutenberg License included with this eBook or
+						online at www.gutenberg.org/license </licence>
+				</availability>
+				<ref>https://www.gutenberg.org/ebooks/63107</ref>
+				<distributor>Hathi Trust: page images</distributor>
+				<availability>
+					<licence
+						source="https://www.hathitrust.org/the-collection/search-access/access-use-policy/#pd-google"
+						>Public domain, Google-digitized, courtesy of Hathi Trust</licence>
+					<p/>
+				</availability>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<publisher>The Dial Publishing Company</publisher>
+					<title type="journal">The Dial</title>
+					<edition>Volume LXXV</edition>
+					<date>July to December, 1923</date>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+				xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+				xmlns:as="http://www.w3.org/ns/activitystreams#"
+				xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#"
+				xmlns:dc="http://purl.org/dc/elements/1.1/"
+				xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/"
+				xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#"
+				xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+				xmlns:fabio="https://purl.org/spar/fabio#"
+				xmlns:bf="http://www.openlinksw.com/schemas/bif#"
+				xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#"
+				xmlns:org="http://www.w3.org/ns/org#">
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -117,10 +131,8 @@
 		"schema:softwareVersion": "3.4.0"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -195,10 +207,8 @@
 		"schema:softwareVersion": "3.4.0"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -273,10 +283,8 @@
 		"schema:softwareVersion": "3.4.0"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -351,10 +359,8 @@
 		"schema:softwareVersion": "3.4.0"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -429,10 +435,8 @@
 		"schema:softwareVersion": "3.4.0"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -507,10 +511,8 @@
 		"schema:softwareVersion": "3.4.0"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -585,10 +587,8 @@
 		"schema:softwareVersion": "3.4.0"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -663,10 +663,8 @@
 		"schema:softwareVersion": "3.4.0"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -741,10 +739,8 @@
 		"schema:softwareVersion": "3.4.0"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -820,10 +816,8 @@
 	},
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -898,10 +892,8 @@
 		"schema:softwareVersion": "3.4.0"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -976,10 +968,8 @@
 		"schema:softwareVersion": "3.4.0"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -1054,10 +1044,8 @@
 		"schema:softwareVersion": "3.4.0"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -1132,10 +1120,8 @@
 		"schema:softwareVersion": "3.4.0"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -1211,10 +1197,8 @@
 	},
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -1290,10 +1274,8 @@
 		"schema:softwareVersion": "3.4.0"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -1368,10 +1350,8 @@
 		"schema:softwareVersion": "3.4.0"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -1447,10 +1427,8 @@
 		"schema:softwareVersion": "3.4.0"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -1526,10 +1504,8 @@
 	},
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -1605,10 +1581,8 @@
 	},
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -1684,10 +1658,8 @@
 	},
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -1762,10 +1734,8 @@
 		"schema:softwareVersion": "3.4.0"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -1841,10 +1811,8 @@
 		"schema:softwareVersion": "3.4.0"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -1919,10 +1887,8 @@
 		"schema:softwareVersion": "3.4.0"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -1997,10 +1963,8 @@
 		"schema:softwareVersion": "3.4.0"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -2076,10 +2040,8 @@
 	},
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -2155,10 +2117,8 @@
 	},
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -2233,10 +2193,8 @@
 		"schema:softwareVersion": "3.4.0"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -2311,10 +2269,8 @@
 		"schema:softwareVersion": "3.4.0"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -2388,10 +2344,8 @@
 		"schema:softwareVersion": "3.4.0"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -2466,10 +2420,8 @@
 		"schema:softwareVersion": "3.4.0"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -2544,10 +2496,8 @@
 		"schema:softwareVersion": "3.4.0"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -2623,10 +2573,8 @@
 		"schema:softwareVersion": "3.4.0"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -2702,290 +2650,554 @@
 		"schema:softwareVersion": "3.4.0"
 	}
 }]]>
-        </rdf:Description>
-      </rdf:RDF></xenoData><encodingDesc>
-         <projectDesc>
-            <p>This encoded file was created by Diane Jakacki and made available for a Linked
-               Editing Academic Framework (LEAF) / LEAF-Writer workshop. This file is not meant for
-               use or publication outside of the workshop environment.</p>
-         </projectDesc>
-      </encodingDesc>
-   </teiHeader>
-   <text xml:lang="en">
-      <body>
+				</rdf:Description>
+			</rdf:RDF></xenoData>
+		<encodingDesc>
+			<projectDesc>
+				<p>This encoded file was created by Diane Jakacki and made available for a Linked
+					Editing Academic Framework (LEAF) / LEAF-Writer workshop. This file is not meant
+					for use or publication outside of the workshop environment.</p>
+			</projectDesc>
+		</encodingDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
 
-         <div cert="high" org="composite" part="Y" sample="initial" type="story" xml:space="default">
-            
-            <head><title level="m" key="Woolf, Virginia, 1882-1941. | Mrs. Dalloway in Bond Street." ref="http://viaf.org/viaf/3520159477916427990000/">MRS DALLOWAY IN BOND STREET</title></head>
-            <byline>BY <persName key="Virginia Woolf" ref="http://www.wikidata.org/entity/Q40909">VIRGINIA WOOLF</persName></byline>
+			<div cert="high" org="composite" part="Y" sample="initial" type="story"
+				xml:space="default">
 
-            <p><persName cert="high" evidence="internal" full="yes" instant="unknown" key="Clarissa Dalloway" xml:space="default" type="fictional">Mrs Dalloway</persName> said she would buy the gloves herself.</p>
-            <p><objectName cert="high" evidence="internal" full="yes" instant="unknown" xml:space="default" type="building">Big Ben</objectName> was striking as she stepped out into the street. It was <time>eleven o'clock</time> and
-               the unused hour was fresh as if issued to children on a beach. But there was
-               something solemn in the deliberate swing of the repeated strokes; something stirring
-               in the murmur of wheels and the shuffle of footsteps.</p>
-            <p>No doubt they were not all bound on errands of happiness. There is much more to be
-               said about us than that we walk <placeName key="Westminster" ref="http://www.wikidata.org/entity/Q189960">the streets of Westminster</placeName>. <objectName cert="high" evidence="internal" full="yes" instant="unknown" xml:space="default" type="building">Big Ben</objectName> too is nothing
-               but steel rods consumed by rust were it not for the care of <orgName type="civic">H. M.'s Office of Works</orgName>.
-               Only for <persName cert="high" evidence="internal" full="yes" instant="unknown" key="Clarissa Dalloway" xml:space="default" type="fictional">Mrs Dalloway</persName> the moment was complete; for <persName key="Clarissa Dalloway" type="fictional">Mrs Dalloway</persName> <date>June</date> was fresh. A
-               happy childhood—and it was not to his daughters only that <persName>Justin Parry</persName> had seemed a
-               fine fellow (weak of course on <orgName type="judicial">the Bench</orgName>); flowers at evening, smoke rising; the caw
-               of rooks falling from ever so high, down down through the October air—there is
-               nothing to take the place of childhood. A leaf of mint brings it back; or a cup with
-               a blue ring.</p>
-            <p>Poor little wretches, she sighed, and pressed forward. Oh, right under the horses'
-               noses, you little demon! and there she was left on the kerb stretching her hand out,
-               while <persName key="James Dawes" type="fictional">Jimmy Dawes</persName> grinned on the further side.</p>
-            <p>A charming woman, poised, eager, strangely white-haired for her pink cheeks, so <persName key="Scope Purvis">Scope Purvis, C. B.</persName>, saw her as he hurried to his office. She stiffened a little, waiting
-               for <objectName cert="high" evidence="internal" full="yes" instant="unknown" type="vehicle" xml:space="default">Durtnall's van</objectName> to pass. <objectName cert="high" evidence="internal" full="yes" instant="unknown" type="building" xml:space="default">Big Ben</objectName> struck the tenth; struck the eleventh stroke. The
-               leaden circles dissolved in the air. Pride held her erect, inheriting, handing on,
-               acquainted with discipline and with suffering. How people suffered, how they
-               suffered, she thought, thinking of Mrs Foxcroft at <placeName type="governmental">the Embassy</placeName> last night decked with
-               jewels, eating her heart out, because that nice boy was dead, and now the old Manor
-               House (<objectName cert="high" evidence="internal" full="yes" instant="unknown" type="vehicle" xml:space="default">Durtnall's van</objectName> passed) must go to a cousin.</p>
-            <p>"Good morning to you!" said <persName key="Hugh Whitbread" type="fictional">Hugh Whitbread</persName> raising his hat rather extravagantly by
-               the china shop, for they had known each other as children. "Where are you off
-               to?"</p>
-            
-            <p>"I love walking in <placeName type="city">London</placeName>" said <persName key="Clarissa Dalloway">Mrs Dalloway</persName>. "Really it's better than walking in the
-               country!"</p>
-            <p>"We've just come up" said <persName key="Hugh Whitbread" type="fictional">Hugh Whitbread</persName>. "Unfortunately to see doctors."</p>
-            <p>"<persName key="Milly Whitbread">Milly</persName>?" said <persName key="Clarissa Dalloway" type="fictional">Mrs Dalloway</persName>, instantly compassionate.</p>
-            <p>"Out of sorts," said <persName key="Hugh Whitbread">Hugh Whitbread</persName>. "That sort of thing. <persName key="Richard Dalloway" type="fictional">Dick</persName> all right?"</p>
-            <p>"First rate!" said <persName key="Clarissa Dalloway">Clarissa</persName>.</p>
-            <p>Of course, she thought, walking on, <persName key="Milly Whitbread" type="fictional">Milly</persName> is about my age—fifty—fifty-two. So it is
-               probably that, <persName key="Hugh Whitbread">Hugh's</persName> manner had said so, said it perfectly—dear old <persName key="Hugh Whitbread" type="fictional">Hugh</persName>,
-               thought <persName key="Clarissa Dalloway">Mrs Dalloway</persName>, remembering with amusement, with gratitude, with emotion, how
-               shy, like a brother—one would rather die than speak to one's brother—<persName key="Hugh Whitbread" type="fictional">Hugh</persName> had always
-               been, when he was at <orgName type="university" key="University of Oxford" ref="http://www.wikidata.org/entity/Q34433">Oxford</orgName>, and came over, and perhaps one of them (drat the thing!)
-               couldn't ride. How then could women sit in <orgName type="government" key="Parliament of the United Kingdom" ref="http://www.wikidata.org/entity/Q11010">Parliament</orgName>? How could they do things with
-               men? For there is this extraordinarily deep instinct, something inside one; you can't
-               get over it; it's no use trying; and men like <persName key="Hugh Whitbread">Hugh</persName> respect it without our saying it,
-               which is what one loves, thought <persName key="Clarissa Dalloway" type="fictional">Clarissa</persName>, in dear old <persName key="Hugh Whitbread">Hugh</persName>.</p>
-            <p>She had passed through the <placeName type="monument" key="Admiralty Arch" ref="http://www.wikidata.org/entity/Q359256">Admiralty Arch</placeName> and saw at the end of the empty road with
-               its thin trees Victoria's white mound, Victoria's billowing motherliness, amplitude
-               and homeliness, always ridiculous, yet how sublime, thought <persName key="Clarissa Dalloway" type="fictional">Mrs Dalloway</persName>, remembering
-               <placeName type="palace" key="Kensington Gardens" ref="http://www.wikidata.org/entity/Q822607">Kensington Gardens</placeName> and the <persName key="Victoria" ref="http://www.wikidata.org/entity/Q9439">old lady in horn spectacles</persName> and being told by Nanny to
-               stop dead still and bow to the <persName key="Victoria" type="real" ref="http://www.wikidata.org/entity/Q9439">Queen</persName>. The flag flew above <placeName key="Buckingham Palace" type="palace" ref="http://www.wikidata.org/entity/Q42182">the Palace</placeName>. The <persName xml:id="geor01" cert="high" evidence="internal" full="yes" instant="unknown" key="George V" xml:space="default" ref="http://www.wikidata.org/entity/Q269412">King</persName> and
-               <persName key="Mary of Teck" ref="http://www.wikidata.org/entity/Q76927">Queen</persName> were back then. <persName key="Richard Dalloway" type="fictional">Dick</persName> had met her at lunch the other day—a thoroughly nice
-               woman. It matters so much to the poor, thought <persName key="Clarissa Dalloway">Clarissa</persName>, and to the soldiers. A <objectName cert="high" evidence="internal" full="yes" instant="unknown" type="statue" xml:space="default">man in bronze stood heroically on a pedestal with a gun</objectName> on her left hand side—<eventName cert="high" evidence="internal" full="yes" instant="unknown" type="war" xml:space="default">the South African war</eventName>. It matters, thought <persName key="Clarissa Dalloway" type="fictional">Mrs Dalloway</persName> walking towards <placeName key="Buckingham Palace" type="palace" ref="http://www.wikidata.org/entity/Q42182">Buckingham Palace</placeName>.
-               There it stood four-square, in the broad sunshine, uncompromising, plain. But it was
-               character she thought; something inborn in the race; what <orgName type="people">Indians</orgName> respected. <persName key="Queen Mary" type="both">The Queen</persName> went to hospitals, opened bazaars—<persName key="Mary of Teck" ref="http://www.wikidata.org/entity/Q76927">the Queen of England</persName>, thought <persName>Clarissa</persName>,
-               looking at <placeName key="Buckingham Palace" type="palace" ref="http://www.wikidata.org/entity/Q42182">the Palace</placeName>. Already at this hour a <objectName cert="high" evidence="internal" full="yes" instant="unknown" type="vehicle" xml:space="default">motor car</objectName> passed out at <objectName cert="high" evidence="internal" full="yes" instant="unknown" type="structure" xml:space="default">the gates</objectName>;
-               <orgName type="military">soldiers</orgName> saluted; <objectName cert="high" evidence="internal" full="yes" instant="unknown" type="structure" xml:space="default">the gates</objectName> were shut. And <persName key="Clarissa Dalloway" type="fictional">Clarissa</persName>, crossing the road, entered <placeName cert="high" evidence="internal" full="yes" instant="unknown" key="St. James's Park" xml:space="default" type="park" ref="http://www.wikidata.org/entity/Q216914">the Park</placeName>, holding herself upright.</p>
-            <p><date>June</date> had drawn out every leaf on the trees. The <orgName type="people">mothers of  Westminster</orgName> with mottled
-               breasts gave suck to their young. Quite respectable girls lay stretched on the grass.
-               An elderly man, stooping very stiffly, picked up a crumpled paper, spread it out flat
-               and flung it away. How horrible! Last night at <placeName type="government">the Embassy</placeName> <persName key="Sir Dighton">Sir Dighton</persName> had said "If I
-               want a fellow to hold my horse, I have only to put up my hand." But the religious
-               question is far more serious than the economic, <persName key="Sir Dighton" type="fictional">Sir Dighton</persName> had said, which she
-               thought extraordinarily interesting, from a man like <persName key="Sir Dighton">Sir Dighton</persName>. "Oh, the country
-               will never know what it has lost" he had said, talking, of his own accord, about dear
-               <persName key="Jack Stewart" type="fictional">Jack Stewart</persName>.</p>
-            <p>She mounted the little hill lightly. The air stirred with energy. Messages were
-               passing from the Fleet to <orgName key="Admiralty" ref="http://www.wikidata.org/entity/Q396266">the Admiralty</orgName>. <placeName cert="high" evidence="internal" full="yes" instant="unknown" type="street" xml:space="default" key="Piccadilly" ref="http://www.wikidata.org/entity/Q1124023">Piccadilly</placeName> and <placeName cert="high" evidence="internal" full="yes" instant="unknown" type="street" xml:space="default" key="Arlington Street" ref="http://www.wikidata.org/entity/Q67532188">Arlington Street</placeName> and <placeName type="street" key="The Mall" ref="http://www.wikidata.org/entity/Q842930">the Mall</placeName>
-               seemed to chafe the very air in <placeName cert="high" evidence="internal" full="yes" instant="unknown" key="St. James's Park" xml:space="default" type="park" ref="http://www.wikidata.org/entity/Q216914">the Park</placeName> and lift its leaves hotly, brilliantly, upon
-               waves of that divine vitality which <persName key="Clarissa Dalloway">Clarissa</persName> loved. To ride; to dance; she had adored
-               all that. Or going long walks in the country, talking, about books, what to do with
-               one's life, for young people were amazingly priggish—oh, the things one had said! But
-               one had conviction. Middle age is the devil. People like <persName cert="high" evidence="internal" full="yes" instant="unknown" key="Jack Stewart" xml:space="default" type="fictional">Jack</persName>'ll never know that, she
-               thought; for he never once thought of death, never, they said, knew he was dying. And
-               now can never mourn—how did it go?—a head grown grey. . . . From the contagion of the
-               world's slow stain . . . have drunk their cup a round or two before. . . . From the
-               contagion of the world's slow stain! She held herself upright.</p>
-            <p>But how <persName cert="high" evidence="internal" full="yes" instant="unknown" key="Jack Stewart" xml:space="default" type="fictional">Jack</persName> would have shouted! Quoting <persName xml:id="shel01" key="Percy Bysshe Shelley" type="real" ref="http://www.wikidata.org/entity/Q93343">Shelley</persName>, in <placeName key="Piccadilly" ref="http://www.wikidata.org/entity/Q1124023">Piccadilly</placeName>! "You want a pin," he
-               would have said. He hated frumps. "My God <persName key="Clarissa Dalloway" type="fictional">Clarissa</persName>! My God <persName key="Clarissa Dalloway">Clarissa</persName>!"—she could hear
-               him now at <eventName>the <placeName key="Devonshire House" type="residence" ref="http://www.wikidata.org/entity/Q5267865">Devonshire House</placeName> party</eventName>, about poor <persName key="Sylvia Hunt" type="fictional">Sylvia Hunt</persName> in her amber necklace
-               and that dowdy old silk. <persName key="Clarissa Dalloway">Clarissa</persName> held herself upright for she had spoken aloud and
-               now she was in <placeName key="Piccadilly" type="street" ref="http://www.wikidata.org/entity/Q1124023">Piccadilly</placeName>, passing the house with the slender green columns, and the
-               balconies; passing club windows full of newspapers; passing old <placeName cert="high" evidence="internal" full="yes" instant="unknown" key="Lady Burdett Coutts house" xml:space="default" type="residence"><persName key="Lady Burdett Coutts" type="fictional">Lady Burdett Coutts</persName>' house</placeName> where the glazed white parrot used to hang; and <placeName cert="high" evidence="internal" full="yes" instant="unknown" key="Devonshire House" xml:space="default" type="residence" ref="http://www.wikidata.org/entity/Q5267865">Devonshire House</placeName>, without its
-               gilt leopards; and <placeName cert="high" evidence="internal" full="yes" instant="unknown" key="Claridge's" xml:space="default" type="hotel" ref="http://www.wikidata.org/entity/Q2748565">Claridge's</placeName>, where she must remember <persName key="Richard Dalloway">Dick</persName> wanted her to leave a
-               card on <persName key="Mrs Jepson" type="fictional">Mrs Jepson</persName> or she would be gone. Rich Americans can be very charming. There
-               was <placeName key="St James's Palace" type="palace" ref="http://www.wikidata.org/entity/Q272162">St James palace</placeName>; like a child's game with bricks; and now—she had passed <placeName key="Bond Street" type="street" ref="http://www.wikidata.org/entity/Q892187">Bond Street</placeName>—she was by <placeName key="Hatchard's book shop" type="business">Hatchard's book shop</placeName>. The 
-               stream was endless—endless—endless.
-               Lords, Ascot, Hurlingham—what was it? What a duck, she thought, looking at the
-               frontispiece of some book of memoirs spread wide in the bow window, <persName xml:id="reyn01" key="Joshua Reynolds" type="real">Sir Joshua</persName>
-               perhaps or <persName xml:id="romn01" key="George Romney" ref="http://www.wikidata.org/entity/Q371280">Romney</persName>; arch, bright, demure; the sort of girl—like her own <persName key="Elizabeth Dalloway" type="fictional">Elizabeth</persName>—the
-               only <emph cert="high" rend="italic" xml:space="default">real</emph> sort of girl. And there was that absurd book, <title xml:id="spon01" key="Mr. Sponge's Sporting Tours" level="m">Soapy Sponge</title>, which <persName cert="high" evidence="internal" full="yes" instant="unknown" key="Jim" xml:space="default" type="fictional">Jim</persName> used to quote by the yard; and <title xml:id="sonn01" key="Shakespeare, William, 1564-1616. | Sonnets" level="m" ref="http://viaf.org/viaf/9427157527280827300005/">Shakespeare's Sonnets</title>. She knew them
-               by heart. <persName key="Phil" type="fictional">Phil</persName> and she had argued all day about the Dark Lady, and <persName key="Richard Dalloway">Dick</persName> had said
-               straight out at dinner that night that he had never heard of her. Really, she had
-               married him for that! He had never read <persName xml:id="shak01" key="William Shakespeare" type="real" ref="http://www.wikidata.org/entity/Q692">Shakespeare</persName>! There must be some little cheap
-               book she could buy for <persName key="Milly Whitbread" type="fictional">Milly</persName>—<title xml:id="cran01" key="Gaskell, Elizabeth Cleghorn, 1810-1865. | Cranford" level="m" ref="http://viaf.org/viaf/185279229/">Cranford</title> of course! Was there ever anything so
-               enchanting as the cow in petticoats? If only people had that sort of humour, that
-               sort of self-respect now, thought <persName key="Clarissa Dalloway">Clarissa</persName>, for she remembered the broad pages; the
-               sentences ending; the characters—how one talked about them as if they were real. For
-               all the great things one must go to the past, she thought. From the contagion of the
-               world's slow stain. . . . Fear no more the heat o' the sun. . . . And now can never
-               mourn, can never mourn, she repeated, her eyes straying over the window; for it ran
-               in her head; the test of great poetry; the moderns had never written anything one
-               wanted to read about death, she thought; and turned.</p>
-            <p><objectName cert="high" evidence="internal" full="yes" instant="unknown" type="vehicle" xml:space="default">Omnibuses</objectName> joined <objectName cert="high" evidence="internal" full="yes" instant="unknown" type="vehicle" xml:space="default">motor cars</objectName>; <objectName cert="high" evidence="internal" full="yes" instant="unknown" type="vehicle" xml:space="default">motor cars</objectName> <objectName cert="high" evidence="internal" full="yes" instant="unknown" type="vehicle" xml:space="default">vans</objectName>; <objectName cert="high" evidence="internal" full="yes" instant="unknown" type="vehicle" xml:space="default">vans</objectName> <objectName cert="high" evidence="internal" full="yes" instant="unknown" type="vehicle" xml:space="default">taxicabs</objectName>; <objectName cert="high" evidence="internal" full="yes" instant="unknown" type="vehicle" xml:space="default">taxicabs</objectName> <objectName cert="high" evidence="internal" full="yes" instant="unknown" type="vehicle" xml:space="default">motor cars</objectName>—here
-               was an <objectName cert="high" evidence="internal" full="yes" instant="unknown" type="vehicle" xml:space="default">open motor car</objectName> with a <persName>girl</persName>, alone. Up till four, her feet tingling, I know,
-               thought <persName key="Clarissa Dalloway" type="fictional">Clarissa</persName>, for the girl looked washed out, half asleep, in the corner of the
-               car after the dance. And another <objectName cert="high" evidence="internal" full="yes" instant="unknown" type="vehicle" xml:space="default">car</objectName> came; and <objectName cert="high" evidence="internal" full="yes" instant="unknown" type="vehicle" xml:space="default">another</objectName>. No! No! No! <persName key="Clarissa Dalloway">Clarissa</persName> smiled
-               good-naturedly. The fat lady had taken every sort of trouble, but diamonds! orchids!
-               at this hour of the morning! No! No! No! The excellent <persName type="fictional">policeman</persName> would, when the time
-               came, hold up his hand. Another <objectName cert="high" evidence="internal" full="yes" instant="unknown" type="vehicle" xml:space="default">motor car</objectName> passed. How utterly unattractive! Why
-               should a <persName>girl</persName> of that age paint black round her eyes? And a young man, with a girl,
-               at this hour, when the country—The admirable <persName type="fictional">policeman</persName> raised his hand and <persName key="Clarissa Dalloway" type="fictional">Clarissa</persName>
-               acknowledging his sway, taking her time, crossed, walked towards <placeName key="Bond Street" type="street">Bond Street</placeName>; saw the
-               narrow crooked street, the yellow banners; the thick notched telegraph wires
-               stretched across the sky.</p>
-            <p>A hundred years ago her great-great-grandfather, <persName key="Seymour Parry">Seymour Parry</persName>, who ran away with
-               Conway's daughter, had walked down <placeName key="Bond Street" type="street">Bond Street</placeName>. Down <persName key="Bond Street">Bond Street</persName> <orgName type="family">the Parrys</orgName> had
-               walked for a hundred years, and might have met <orgName type="family">the Dalloways</orgName> (<orgName type="family">Leighs</orgName> on the mother's
-               side) going up. Her father got his clothes from <orgName type="business">Hill's</orgName>. There was a <objectName cert="high" evidence="internal" full="yes" instant="unknown" type="goods" xml:space="default">roll of cloth</objectName> in
-               the <objectName cert="high" evidence="internal" full="yes" instant="unknown" type="structure" xml:space="default">window</objectName>, and here just one <objectName cert="high" evidence="internal" full="yes" instant="unknown" type="glassware" xml:space="default">jar</objectName> on a <objectName cert="high" evidence="internal" full="yes" instant="unknown" type="furniture" xml:space="default">black table</objectName>, incredibly expensive; like the
-               thick pink salmon on the <objectName>ice block</objectName> at the <orgName type="store">fishmonger's</orgName>. The <objectName type="jewelry">jewels</objectName> were
-               exquisite—<objectName type="jewelry">pink and orange stars</objectName>, paste, Spanish, she thought, and <objectName type="jewelry">chains of old gold</objectName>;
-               <objectName type="jewelry">starry buckles</objectName>, <objectName type="jewelry">little brooches</objectName> which had been worn on sea green satin by ladies with
-               high head-dresses. But no good looking! One must economize. She must go on past the
-               <orgName type="store">picture dealer's</orgName> where one of the odd French pictures hung, as if people had thrown
-               confetti—pink and blue—for a joke. If you had lived with pictures (and it's the same
-               with books and music) thought <persName key="Clarissa Dalloway" type="fictional">Clarissa</persName>, passing the <placeName key="Aeolian Hall" type="venue">Aeolian Hall</placeName>, you can't be taken
-               in by a joke.</p>
-            <p>The river of <placeName key="Bond Street" type="street">Bond Street</placeName> was clogged. There, like a Queen at a tournament, raised,
-               regal, was <persName key="Lady Bexborough">Lady Bexborough</persName>. She sat in her <objectName type="vehicle">carriage</objectName>, upright, alone, looking through
-               her <objectName type="accessory">glasses</objectName>. The <objectName cert="high" evidence="internal" full="yes" instant="unknown" type="clothing" xml:space="default">white glove</objectName> was loose at her wrist. She was in black, quite shabby,
-               yet, thought <persName key="Clarissa Dalloway" type="fictional">Clarissa</persName>, how extraordinarily it tells, breeding, self-respect, never
-               saying a word too much or letting people gossip; an astonishing friend; no one can
-               pick a hole in her after all these years, and now, there she is, thought <persName key="Clarissa Dalloway">Clarissa</persName>,
-               passing the <persName cert="high" evidence="internal" full="yes" instant="unknown" key="Lady Bexborough" xml:space="default" type="fictional">Countess</persName> who waited powdered, perfectly still, and <persName key="Clarissa Dalloway">Clarissa</persName> would have
-               given anything to be like that, the mistress of <placeName type="residence">Clarefield</placeName>, talking politics, like a
-               man. But she never goes anywhere, thought <persName key="Clarissa Dalloway" type="fictional">Clarissa</persName>, and it's quite useless to ask
-               her, and the <objectName cert="high" evidence="internal" full="yes" instant="unknown" type="vehicle" xml:space="default">carriage</objectName> went on and <persName key="Lady Bexborough">Lady Bexborough</persName> was borne past like a Queen at a
-               tournament, though she had nothing to live for and <persName key="Lord Bexborough" type="fictional">the old man</persName> is failing and they
-               <persName key="Lady Bexborough">say</persName> she is sick of it all, thought <persName key="Clarissa Dalloway" type="fictional">Clarissa</persName> and the tears actually rose to her eyes
-               as she entered <orgName type="store">the shop</orgName>.</p>
-            <p>"Good morning" said <persName key="Clarissa Dalloway">Clarissa</persName> in her charming voice. "<objectName type="accessory">Gloves</objectName>" she said with her
-               exquisite friendliness and putting her <objectName cert="high" evidence="internal" full="yes" instant="unknown" type="accessory" xml:space="default">bag</objectName> on the <objectName type="furniture">counter</objectName> began, very slowly, to undo
-               the <objectName cert="high" evidence="internal" full="yes" instant="unknown" type="accessory" xml:space="default">buttons</objectName>. "<objectName type="clothing">White gloves</objectName>" she said. "Above the elbow" and she looked straight into
-               the <persName type="fictional">shopwoman</persName>'s face—but this was not the girl she remembered? She looked quite old.
-               "These really don't fit" said Clarissa. The <persName>shop girl</persName> looked at them. "Madame wears
-               bracelets?" <persName key="Clarissa Dalloway" type="fictional">Clarissa</persName> spread out her fingers. "Perhaps it's my <objectName type="jewelry">rings</objectName>." And <persName>the girl</persName>
-               took the <objectName cert="high" evidence="internal" full="yes" instant="unknown" type="clothing" xml:space="default">grey gloves</objectName> with her to the end of the <objectName cert="high" evidence="internal" full="yes" instant="unknown" type="furniture" xml:space="default">counter</objectName>.</p>
-            <p>Yes, thought <persName key="Clarissa Dalloway" type="fictional">Clarissa</persName>, if it's the girl I remember she's twenty 
-               years older. . . .
-               There was only one other <persName>customer</persName>, sitting sideways at the <objectName type="furniture">counter</objectName>, her elbow poised,
-               her bare hand drooping, vacant; like a figure on a Japanese fan, thought <persName key="Clarissa Dalloway">Clarissa</persName>,
-               too vacant perhaps, yet some men would adore her. The lady shook her head sadly.
-               Again the <objectName type="clothing">gloves</objectName> were too large. She turned round the <objectName type="furniture">glass</objectName>. "Above the wrist" she
-               reproached the grey-headed <persName>woman</persName>; who looked and agreed.</p>
-            <p>They waited; a clock ticked; <placeName key="Bond Street" type="street">Bond Street</placeName> hummed, dulled, distant; the <persName>woman</persName> went away
-               holding <objectName type="clothing">gloves</objectName>. "Above the wrist" said the lady, mournfully, raising her voice. And
-               she would have to order chairs, ices, flowers, and cloak-room tickets, thought
-               <persName key="Clarissa Dalloway" type="fictional">Clarissa</persName>. The people she didn't want would come; the others wouldn't. She would stand
-               by the door. They sold <objectName type="clothing">stockings</objectName>—<objectName type="clothing">silk stockings</objectName>. A lady is known by her <objectName type="clothing">gloves</objectName> and
-               her <objectName type="clothing">shoes</objectName>, old <persName key="Uncle William (Parry?)">Uncle William</persName> used to say. And through the hanging <objectName type="clothing">silk stockings</objectName>
-               quivering silver she looked at the lady, sloping shouldered, her hand drooping, her
-               bag slipping, her eyes vacantly on the floor. It would be intolerable if dowdy women
-               came to her party! Would one have liked <persName xml:id="keat01" key="John Keats" type="real">Keats</persName> if he had worn <objectName type="clothing">red socks</objectName>? Oh, at
-               last—she drew into the <objectName type="furniture">counter</objectName> and it flashed into her mind:</p>
-            <p>"Do you remember before the war you had <objectName type="clothing">gloves with pearl buttons</objectName>?"</p>
-            <p>"French gloves, Madame?"</p>
-            <p>"Yes, they were French" said <persName key="Clarissa Dalloway" type="fictional">Clarissa</persName>. The other <persName type="fictional">lady</persName> rose very sadly and took her
-               <objectName type="accessory">bag</objectName>, and looked at the <objectName type="clothing">gloves</objectName> on the <objectName type="furniture">counter</objectName>. But they were all too large—always too
-               large at the wrist.</p>
-            <p>"With pearl buttons" said the shop-girl, who looked ever so much older. She split the
-               lengths of tissue paper apart on the <objectName type="furniture">counter</objectName>. With pearl buttons, thought <persName key="Clarissa Dalloway">Clarissa</persName>,
-               perfectly simple—how French!</p>
-            <p>"Madame's hands are so slender" said the <persName type="fictional">shop girl</persName>, drawing the <objectName type="clothing">glove</objectName> firmly,
-               smoothly, down over her rings. And <persName key="Clarissa Dalloway">Clarissa</persName> looked at her arm in the <objectName type="furniture">looking glass</objectName>.
-               The <objectName type="clothing">glove</objectName> hardly came to the elbow. Were there others half an inch longer? Still it
-               seemed tiresome to bother her—perhaps the one day in the month, thought <persName key="Clarissa Dalloway" type="fictional">Clarissa</persName>,
-               when it's an agony to stand. "Oh, don't bother" she said. But the <objectName type="clothing">gloves</objectName> were
-               brought.</p>
-            <p>"Don't you get fearfully tired" she said in her charming voice, "standing? When d'you
-               get your holiday?"</p>
-            <p>"In <date>September</date>, Madame, when we're not so busy."</p>
-            
-            <p>When we're in the country thought <persName key="Clarissa Dalloway">Clarissa</persName>. Or shooting. She has a fortnight at
-               <placeName key="Brighton" type="city">Brighton</placeName>. In some stuffy lodging. The landlady takes the sugar. Nothing would be
-               easier than to send her to <orgName type="hotel">Mrs Lumley's</orgName> right in the country (and it was on the tip
-               of her tongue). But then she remembered how on their honeymoon <persName key="Richard Dalloway" type="fictional">Dick</persName> had shown her the
-               folly of giving impulsively. It was much more important, he said, to get trade with
-               China. Of course he was right. And she could feel the girl wouldn't like to be given
-               things. There she was in her place. So was <persName key="Richard Dalloway">Dick</persName>. Selling gloves was her job. She had
-               her own sorrows quite separate, "and now can never mourn, can never mourn" the words
-               ran in her head, "From the contagion of the world's slow stain" thought <persName key="Clarissa Dalloway" type="fictional">Clarissa</persName>
-               holding her arm stiff, for there are moments when it seems utterly futile (the <objectName type="clothing">glove</objectName>
-               was drawn off leaving her arm flecked with powder)—simply one doesn't believe,
-               thought <persName key="Clarissa Dalloway">Clarissa</persName>, any more in God.</p>
-            <p>The traffic suddenly roared; the <objectName type="clothing">silk stockings</objectName> brightened. A <persName type="fictional">customer</persName> came in.</p>
-            <p>"<objectName type="clothing">White gloves</objectName>," she said, with some ring in her voice that <persName key="Clarissa Dalloway" type="fictional">Clarissa</persName> remembered.</p>
-            <p>It used, thought <persName key="Clarissa Dalloway">Clarissa</persName>, to be so simple. Down down through the air came the caw of
-               the rooks. When <persName key="Sylvia" type="fictional">Sylvia</persName> died, hundreds of years ago, the yew hedges looked so lovely
-               with the diamond webs in the mist before early church. But if <persName key="Richard Dalloway">Dick</persName> were to die
-               to-morrow as for believing in God—no, she would let the children choose, but for
-               herself, like <persName key="Lady Bexborough" type="fictional">Lady Bexborough</persName>, who opened the bazaar, they say, with the telegram in
-               her hand—Roden, her favourite, killed—she would go on. But why, if one doesn't
-               believe? For the sake of others, she thought, taking the <objectName type="clothing">glove</objectName> in her hand. This girl
-               would be much more unhappy if she didn't believe.</p>
-            <p>"<measure quantity="30" type="currency">Thirty shillings</measure>" said the <persName>shopwoman</persName>. "No, pardon me Madame, <measure quantity="35" type="currency">thirty-five</measure>. The <objectName type="clothing">French gloves</objectName> are more."</p>
-            <p>For one doesn't live for oneself, thought <persName key="Clarissa Dalloway" type="fictional">Clarissa</persName>.</p>
-            <p>And then the other <persName type="fictional">customer</persName> took a <objectName type="clothing">glove</objectName>, tugged it, and it split.</p>
-            <p>"There!" she exclaimed.</p>
-            <p>"A fault of the skin," said the <persName type="fictional">grey-headed woman</persName> hurriedly. "Sometimes a drop of
-               acid in tanning. Try this pair, Madame."</p>
-            <p>"But it's an awful swindle to ask two pound ten!"</p>
-            <p><persName key="Clarissa Dalloway">Clarissa</persName> looked at the <persName type="fictional">lady</persName>; the <persName type="fictional">lady</persName> looked at <persName key="Clarissa Dalloway" type="fictional">Clarissa</persName>.</p>
-            <p>"<objectName type="clothing">Gloves</objectName> have never been quite so reliable since <eventName key="World War I">the war</eventName>" said the <persName type="fictional">shop-girl</persName>,
-               apologizing, to <persName key="Clarissa Dalloway" type="fictional">Clarissa</persName>.</p>
-            
-            <p>But where had she seen the other lady?—elderly, with a frill under her chin; wearing
-               a <objectName type="accessory">black ribbon for gold eyeglasses</objectName>; sensual, clever, like a<objectName cert="high" evidence="internal" full="yes" instant="unknown" type="artwork" xml:space="default"> <persName key="John Singer Sargent" type="real">Sargent</persName> drawing</objectName>. How one
-               can tell from a voice when people are in the habit, thought <persName key="Clarissa Dalloway" type="fictional">Clarissa</persName>, of making other
-               people—"It's a shade too tight" she said—obey. The <persName type="fictional">shopwoman</persName> went off again. <persName key="Clarissa Dalloway">Clarissa</persName>
-               was left waiting. Fear no more she repeated, playing her finger on the <objectName type="furniture">counter</objectName>. Fear
-               no more the heat o' the sun. Fear no more she repeated. There were little brown spots
-               on her arm. And the girl crawled like a snail. Thou thy wordly task hast done.
-               Thousands of young men had died that things might go on. At last! Half an inch above
-               the elbow; pearl buttons; five and a quarter. My dear slow coach, thought <persName key="Clarissa Dalloway" type="fictional">Clarissa</persName>,
-               do you think I can sit here the whole morning? Now you'll take <time>twenty-five minutes</time> to
-               bring me my change!</p>
-            <p>There was a <eventName>violent explosion</eventName> in the <placeName key="Bond Street">street</placeName> outside. The <orgName type="fictional">shopwomen</orgName> cowered behind the
-               <objectName type="furniture">counters</objectName>. But <persName key="Clarissa Dalloway">Clarissa</persName>, sitting very up-right, smiled at the other lady. "<persName key="Miss Anstruther" type="fictional">Miss Anstruther</persName>!" she exclaimed.</p>
-         </div>
-      	
-      	<div type="index">
-      		<list xml:id="per_his">
-      			<head>Historical People</head>
-      		<item>
-      			<list xml:id="per_aut">
-      			<head>Authors:</head>
-      			<item>
-      				<ref target="#keat01">Keats, John</ref>
-      			</item>
-      			<item>
-      				<ref target="#shak01 #">Shakespeare, William</ref>
-      			</item>
-      			<item>
-      				<ref target="#shel01">Shelley, Percy Bysshe</ref>
-      			</item>
-      		</list>
-      		<list xml:id="per_art">
-      			<head>Artists:</head>
-      			<item>
-      				<ref target="#reyn01">Reynolds, Joshua</ref>
-      			</item>
-      			<item>
-      				<ref target="#romn01">Romney, George</ref>
-      			</item>
-      		</list>
-      		<list xml:id="per_mon">
-      			<head>Monarchs:</head>
-      			<item>
-      				<ref>King George V</ref>
-      			</item>
-      			<item>
-      				<ref>Queen Mary (wife of George V)</ref>
-      			</item>
-      			<item>
-      				<ref>Queen Victoria</ref>
-      			</item>
-      		</list></item></list>
-      	</div>
+				<head><title level="m"
+						key="Woolf, Virginia, 1882-1941. | Mrs. Dalloway in Bond Street."
+						ref="http://viaf.org/viaf/3520159477916427990000/">MRS DALLOWAY IN BOND
+						STREET</title></head>
+				<byline>BY <persName key="Virginia Woolf"
+						ref="http://www.wikidata.org/entity/Q40909">VIRGINIA
+					WOOLF</persName></byline>
 
-      </body>
-   </text>
+				<p><persName cert="high" evidence="internal" full="yes" instant="unknown"
+						key="Clarissa Dalloway" xml:space="default" type="fictional">Mrs
+						Dalloway</persName> said she would buy the gloves herself.</p>
+				<p><objectName cert="high" evidence="internal" full="yes" instant="unknown"
+						xml:space="default" type="building">Big Ben</objectName> was striking as she
+					stepped out into the street. It was <time>eleven o'clock</time> and the unused
+					hour was fresh as if issued to children on a beach. But there was something
+					solemn in the deliberate swing of the repeated strokes; something stirring in
+					the murmur of wheels and the shuffle of footsteps.</p>
+				<p>No doubt they were not all bound on errands of happiness. There is much more to
+					be said about us than that we walk <placeName key="Westminster"
+						ref="http://www.wikidata.org/entity/Q189960">the streets of
+						Westminster</placeName>. <objectName cert="high" evidence="internal"
+						full="yes" instant="unknown" xml:space="default" type="building">Big
+						Ben</objectName> too is nothing but steel rods consumed by rust were it not
+					for the care of <orgName type="civic">H. M.'s Office of Works</orgName>. Only
+					for <persName cert="high" evidence="internal" full="yes" instant="unknown"
+						key="Clarissa Dalloway" xml:space="default" type="fictional">Mrs
+						Dalloway</persName> the moment was complete; for <persName
+						key="Clarissa Dalloway" type="fictional">Mrs Dalloway</persName>
+					<date>June</date> was fresh. A happy childhood—and it was not to his daughters
+					only that <persName>Justin Parry</persName> had seemed a fine fellow (weak of
+					course on <orgName type="judicial">the Bench</orgName>); flowers at evening,
+					smoke rising; the caw of rooks falling from ever so high, down down through the
+					October air—there is nothing to take the place of childhood. A leaf of mint
+					brings it back; or a cup with a blue ring.</p>
+				<p>Poor little wretches, she sighed, and pressed forward. Oh, right under the
+					horses' noses, you little demon! and there she was left on the kerb stretching
+					her hand out, while <persName key="James Dawes" type="fictional">Jimmy
+						Dawes</persName> grinned on the further side.</p>
+				<p>A charming woman, poised, eager, strangely white-haired for her pink cheeks, so
+						<persName key="Scope Purvis">Scope Purvis, C. B.</persName>, saw her as he
+					hurried to his office. She stiffened a little, waiting for <objectName
+						cert="high" evidence="internal" full="yes" instant="unknown" type="vehicle"
+						xml:space="default">Durtnall's van</objectName> to pass. <objectName
+						cert="high" evidence="internal" full="yes" instant="unknown" type="building"
+						xml:space="default">Big Ben</objectName> struck the tenth; struck the
+					eleventh stroke. The leaden circles dissolved in the air. Pride held her erect,
+					inheriting, handing on, acquainted with discipline and with suffering. How
+					people suffered, how they suffered, she thought, thinking of Mrs Foxcroft at
+						<placeName type="governmental">the Embassy</placeName> last night decked
+					with jewels, eating her heart out, because that nice boy was dead, and now the
+					old Manor House (<objectName cert="high" evidence="internal" full="yes"
+						instant="unknown" type="vehicle" xml:space="default">Durtnall's
+						van</objectName> passed) must go to a cousin.</p>
+				<p>"Good morning to you!" said <persName key="Hugh Whitbread" type="fictional">Hugh
+						Whitbread</persName> raising his hat rather extravagantly by the china shop,
+					for they had known each other as children. "Where are you off to?"</p>
+
+				<p>"I love walking in <placeName type="city">London</placeName>" said <persName
+						key="Clarissa Dalloway">Mrs Dalloway</persName>. "Really it's better than
+					walking in the country!"</p>
+				<p>"We've just come up" said <persName key="Hugh Whitbread" type="fictional">Hugh
+						Whitbread</persName>. "Unfortunately to see doctors."</p>
+				<p>"<persName key="Milly Whitbread">Milly</persName>?" said <persName
+						key="Clarissa Dalloway" type="fictional">Mrs Dalloway</persName>, instantly
+					compassionate.</p>
+				<p>"Out of sorts," said <persName key="Hugh Whitbread">Hugh Whitbread</persName>.
+					"That sort of thing. <persName key="Richard Dalloway" type="fictional"
+						>Dick</persName> all right?"</p>
+				<p>"First rate!" said <persName key="Clarissa Dalloway">Clarissa</persName>.</p>
+				<p>Of course, she thought, walking on, <persName key="Milly Whitbread"
+						type="fictional">Milly</persName> is about my age—fifty—fifty-two. So it is
+					probably that, <persName key="Hugh Whitbread">Hugh's</persName> manner had said
+					so, said it perfectly—dear old <persName key="Hugh Whitbread" type="fictional"
+						>Hugh</persName>, thought <persName key="Clarissa Dalloway">Mrs
+						Dalloway</persName>, remembering with amusement, with gratitude, with
+					emotion, how shy, like a brother—one would rather die than speak to one's
+						brother—<persName key="Hugh Whitbread" type="fictional">Hugh</persName> had
+					always been, when he was at <orgName type="university"
+						key="University of Oxford" ref="http://www.wikidata.org/entity/Q34433"
+						>Oxford</orgName>, and came over, and perhaps one of them (drat the thing!)
+					couldn't ride. How then could women sit in <orgName type="government"
+						key="Parliament of the United Kingdom"
+						ref="http://www.wikidata.org/entity/Q11010">Parliament</orgName>? How could
+					they do things with men? For there is this extraordinarily deep instinct,
+					something inside one; you can't get over it; it's no use trying; and men like
+						<persName key="Hugh Whitbread">Hugh</persName> respect it without our saying
+					it, which is what one loves, thought <persName key="Clarissa Dalloway"
+						type="fictional">Clarissa</persName>, in dear old <persName
+						key="Hugh Whitbread">Hugh</persName>.</p>
+				<p>She had passed through the <placeName type="monument" key="Admiralty Arch"
+						ref="http://www.wikidata.org/entity/Q359256">Admiralty Arch</placeName> and
+					saw at the end of the empty road with its thin trees Victoria's white mound,
+					Victoria's billowing motherliness, amplitude and homeliness, always ridiculous,
+					yet how sublime, thought <persName key="Clarissa Dalloway" type="fictional">Mrs
+						Dalloway</persName>, remembering <placeName type="palace"
+						key="Kensington Gardens" ref="http://www.wikidata.org/entity/Q822607"
+						>Kensington Gardens</placeName> and the <persName key="Victoria"
+						ref="http://www.wikidata.org/entity/Q9439">old lady in horn
+						spectacles</persName> and being told by Nanny to stop dead still and bow to
+					the <persName key="Victoria" type="real"
+						ref="http://www.wikidata.org/entity/Q9439">Queen</persName>. The flag flew
+					above <placeName key="Buckingham Palace" type="palace"
+						ref="http://www.wikidata.org/entity/Q42182">the Palace</placeName>. The
+						<persName xml:id="geor01" cert="high" evidence="internal" full="yes"
+						instant="unknown" key="George V" xml:space="default"
+						ref="http://www.wikidata.org/entity/Q269412">King</persName> and <persName
+						key="Mary of Teck" ref="http://www.wikidata.org/entity/Q76927"
+						>Queen</persName> were back then. <persName key="Richard Dalloway"
+						type="fictional">Dick</persName> had met her at lunch the other day—a
+					thoroughly nice woman. It matters so much to the poor, thought <persName
+						key="Clarissa Dalloway">Clarissa</persName>, and to the soldiers. A
+						<objectName cert="high" evidence="internal" full="yes" instant="unknown"
+						type="statue" xml:space="default">man in bronze stood heroically on a
+						pedestal with a gun</objectName> on her left hand side—<eventName
+						cert="high" evidence="internal" full="yes" instant="unknown" type="war"
+						xml:space="default">the South African war</eventName>. It matters, thought
+						<persName key="Clarissa Dalloway" type="fictional">Mrs Dalloway</persName>
+					walking towards <placeName key="Buckingham Palace" type="palace"
+						ref="http://www.wikidata.org/entity/Q42182">Buckingham Palace</placeName>.
+					There it stood four-square, in the broad sunshine, uncompromising, plain. But it
+					was character she thought; something inborn in the race; what <orgName
+						type="people">Indians</orgName> respected. <persName key="Queen Mary"
+						type="both">The Queen</persName> went to hospitals, opened bazaars—<persName
+						key="Mary of Teck" ref="http://www.wikidata.org/entity/Q76927">the Queen of
+						England</persName>, thought <persName>Clarissa</persName>, looking at
+						<placeName key="Buckingham Palace" type="palace"
+						ref="http://www.wikidata.org/entity/Q42182">the Palace</placeName>. Already
+					at this hour a <objectName cert="high" evidence="internal" full="yes"
+						instant="unknown" type="vehicle" xml:space="default">motor car</objectName>
+					passed out at <objectName cert="high" evidence="internal" full="yes"
+						instant="unknown" type="structure" xml:space="default">the
+						gates</objectName>; <orgName type="military">soldiers</orgName> saluted;
+						<objectName cert="high" evidence="internal" full="yes" instant="unknown"
+						type="structure" xml:space="default">the gates</objectName> were shut. And
+						<persName key="Clarissa Dalloway" type="fictional">Clarissa</persName>,
+					crossing the road, entered <placeName cert="high" evidence="internal" full="yes"
+						instant="unknown" key="St. James's Park" xml:space="default" type="park"
+						ref="http://www.wikidata.org/entity/Q216914">the Park</placeName>, holding
+					herself upright.</p>
+				<p><date>June</date> had drawn out every leaf on the trees. The <orgName
+						type="people">mothers of Westminster</orgName> with mottled breasts gave
+					suck to their young. Quite respectable girls lay stretched on the grass. An
+					elderly man, stooping very stiffly, picked up a crumpled paper, spread it out
+					flat and flung it away. How horrible! Last night at <placeName type="government"
+						>the Embassy</placeName>
+					<persName key="Sir Dighton">Sir Dighton</persName> had said "If I want a fellow
+					to hold my horse, I have only to put up my hand." But the religious question is
+					far more serious than the economic, <persName key="Sir Dighton" type="fictional"
+						>Sir Dighton</persName> had said, which she thought extraordinarily
+					interesting, from a man like <persName key="Sir Dighton">Sir Dighton</persName>.
+					"Oh, the country will never know what it has lost" he had said, talking, of his
+					own accord, about dear <persName key="Jack Stewart" type="fictional">Jack
+						Stewart</persName>.</p>
+				<p>She mounted the little hill lightly. The air stirred with energy. Messages were
+					passing from the Fleet to <orgName key="Admiralty"
+						ref="http://www.wikidata.org/entity/Q396266">the Admiralty</orgName>.
+						<placeName cert="high" evidence="internal" full="yes" instant="unknown"
+						type="street" xml:space="default" key="Piccadilly"
+						ref="http://www.wikidata.org/entity/Q1124023">Piccadilly</placeName> and
+						<placeName cert="high" evidence="internal" full="yes" instant="unknown"
+						type="street" xml:space="default" key="Arlington Street"
+						ref="http://www.wikidata.org/entity/Q67532188">Arlington Street</placeName>
+					and <placeName type="street" key="The Mall"
+						ref="http://www.wikidata.org/entity/Q842930">the Mall</placeName> seemed to
+					chafe the very air in <placeName cert="high" evidence="internal" full="yes"
+						instant="unknown" key="St. James's Park" xml:space="default" type="park"
+						ref="http://www.wikidata.org/entity/Q216914">the Park</placeName> and lift
+					its leaves hotly, brilliantly, upon waves of that divine vitality which
+						<persName key="Clarissa Dalloway">Clarissa</persName> loved. To ride; to
+					dance; she had adored all that. Or going long walks in the country, talking,
+					about books, what to do with one's life, for young people were amazingly
+					priggish—oh, the things one had said! But one had conviction. Middle age is the
+					devil. People like <persName cert="high" evidence="internal" full="yes"
+						instant="unknown" key="Jack Stewart" xml:space="default" type="fictional"
+						>Jack</persName>'ll never know that, she thought; for he never once thought
+					of death, never, they said, knew he was dying. And now can never mourn—how did
+					it go?—a head grown grey. . . . From the contagion of the world's slow stain . .
+					. have drunk their cup a round or two before. . . . From the contagion of the
+					world's slow stain! She held herself upright.</p>
+				<p>But how <persName cert="high" evidence="internal" full="yes" instant="unknown"
+						key="Jack Stewart" xml:space="default" type="fictional">Jack</persName>
+					would have shouted! Quoting <persName xml:id="shel01" key="Percy Bysshe Shelley"
+						type="real" ref="http://www.wikidata.org/entity/Q93343">Shelley</persName>,
+					in <placeName key="Piccadilly" ref="http://www.wikidata.org/entity/Q1124023"
+						>Piccadilly</placeName>! "You want a pin," he would have said. He hated
+					frumps. "My God <persName key="Clarissa Dalloway" type="fictional"
+						>Clarissa</persName>! My God <persName key="Clarissa Dalloway"
+						>Clarissa</persName>!"—she could hear him now at <eventName>the <placeName
+							key="Devonshire House" type="residence"
+							ref="http://www.wikidata.org/entity/Q5267865">Devonshire
+							House</placeName> party</eventName>, about poor <persName
+						key="Sylvia Hunt" type="fictional">Sylvia Hunt</persName> in her amber
+					necklace and that dowdy old silk. <persName key="Clarissa Dalloway"
+						>Clarissa</persName> held herself upright for she had spoken aloud and now
+					she was in <placeName key="Piccadilly" type="street"
+						ref="http://www.wikidata.org/entity/Q1124023">Piccadilly</placeName>,
+					passing the house with the slender green columns, and the balconies; passing
+					club windows full of newspapers; passing old <placeName cert="high"
+						evidence="internal" full="yes" instant="unknown"
+						key="Lady Burdett Coutts house" xml:space="default" type="residence"
+							><persName key="Lady Burdett Coutts" type="fictional">Lady Burdett
+							Coutts</persName>' house</placeName> where the glazed white parrot used
+					to hang; and <placeName cert="high" evidence="internal" full="yes"
+						instant="unknown" key="Devonshire House" xml:space="default"
+						type="residence" ref="http://www.wikidata.org/entity/Q5267865">Devonshire
+						House</placeName>, without its gilt leopards; and <placeName cert="high"
+						evidence="internal" full="yes" instant="unknown" key="Claridge's"
+						xml:space="default" type="hotel"
+						ref="http://www.wikidata.org/entity/Q2748565">Claridge's</placeName>, where
+					she must remember <persName key="Richard Dalloway">Dick</persName> wanted her to
+					leave a card on <persName key="Mrs Jepson" type="fictional">Mrs
+						Jepson</persName> or she would be gone. Rich Americans can be very charming.
+					There was <placeName key="St James's Palace" type="palace"
+						ref="http://www.wikidata.org/entity/Q272162">St James palace</placeName>;
+					like a child's game with bricks; and now—she had passed <placeName
+						key="Bond Street" type="street" ref="http://www.wikidata.org/entity/Q892187"
+						>Bond Street</placeName>—she was by <placeName key="Hatchard's book shop"
+						type="business">Hatchard's book shop</placeName>. The stream was
+					endless—endless—endless. Lords, Ascot, Hurlingham—what was it? What a duck, she
+					thought, looking at the frontispiece of some book of memoirs spread wide in the
+					bow window, <persName xml:id="reyn01" key="Joshua Reynolds" type="real">Sir
+						Joshua</persName> perhaps or <persName xml:id="romn01" key="George Romney"
+						ref="http://www.wikidata.org/entity/Q371280">Romney</persName>; arch,
+					bright, demure; the sort of girl—like her own <persName key="Elizabeth Dalloway"
+						type="fictional">Elizabeth</persName>—the only <emph cert="high"
+						rend="italic" xml:space="default">real</emph> sort of girl. And there was
+					that absurd book, <title xml:id="spon01" key="Mr. Sponge's Sporting Tours"
+						level="m">Soapy Sponge</title>, which <persName cert="high"
+						evidence="internal" full="yes" instant="unknown" key="Jim"
+						xml:space="default" type="fictional">Jim</persName> used to quote by the
+					yard; and <title xml:id="sonn01"
+						key="Shakespeare, William, 1564-1616. | Sonnets" level="m"
+						ref="http://viaf.org/viaf/9427157527280827300005/">Shakespeare's
+						Sonnets</title>. She knew them by heart. <persName key="Phil"
+						type="fictional">Phil</persName> and she had argued all day about the Dark
+					Lady, and <persName key="Richard Dalloway">Dick</persName> had said straight out
+					at dinner that night that he had never heard of her. Really, she had married him
+					for that! He had never read <persName xml:id="shak01" key="William Shakespeare"
+						type="real" ref="http://www.wikidata.org/entity/Q692"
+					>Shakespeare</persName>! There must be some little cheap book she could buy for
+						<persName key="Milly Whitbread" type="fictional">Milly</persName>—<title
+						xml:id="cran01" key="Gaskell, Elizabeth Cleghorn, 1810-1865. | Cranford"
+						level="m" ref="http://viaf.org/viaf/185279229/">Cranford</title> of course!
+					Was there ever anything so enchanting as the cow in petticoats? If only people
+					had that sort of humour, that sort of self-respect now, thought <persName
+						key="Clarissa Dalloway">Clarissa</persName>, for she remembered the broad
+					pages; the sentences ending; the characters—how one talked about them as if they
+					were real. For all the great things one must go to the past, she thought. From
+					the contagion of the world's slow stain. . . . Fear no more the heat o' the sun.
+					. . . And now can never mourn, can never mourn, she repeated, her eyes straying
+					over the window; for it ran in her head; the test of great poetry; the moderns
+					had never written anything one wanted to read about death, she thought; and
+					turned.</p>
+				<p><objectName cert="high" evidence="internal" full="yes" instant="unknown"
+						type="vehicle" xml:space="default">Omnibuses</objectName> joined <objectName
+						cert="high" evidence="internal" full="yes" instant="unknown" type="vehicle"
+						xml:space="default">motor cars</objectName>; <objectName cert="high"
+						evidence="internal" full="yes" instant="unknown" type="vehicle"
+						xml:space="default">motor cars</objectName>
+					<objectName cert="high" evidence="internal" full="yes" instant="unknown"
+						type="vehicle" xml:space="default">vans</objectName>; <objectName
+						cert="high" evidence="internal" full="yes" instant="unknown" type="vehicle"
+						xml:space="default">vans</objectName>
+					<objectName cert="high" evidence="internal" full="yes" instant="unknown"
+						type="vehicle" xml:space="default">taxicabs</objectName>; <objectName
+						cert="high" evidence="internal" full="yes" instant="unknown" type="vehicle"
+						xml:space="default">taxicabs</objectName>
+					<objectName cert="high" evidence="internal" full="yes" instant="unknown"
+						type="vehicle" xml:space="default">motor cars</objectName>—here was an
+						<objectName cert="high" evidence="internal" full="yes" instant="unknown"
+						type="vehicle" xml:space="default">open motor car</objectName> with a
+						<persName>girl</persName>, alone. Up till four, her feet tingling, I know,
+					thought <persName key="Clarissa Dalloway" type="fictional">Clarissa</persName>,
+					for the girl looked washed out, half asleep, in the corner of the car after the
+					dance. And another <objectName cert="high" evidence="internal" full="yes"
+						instant="unknown" type="vehicle" xml:space="default">car</objectName> came;
+					and <objectName cert="high" evidence="internal" full="yes" instant="unknown"
+						type="vehicle" xml:space="default">another</objectName>. No! No! No!
+						<persName key="Clarissa Dalloway">Clarissa</persName> smiled good-naturedly.
+					The fat lady had taken every sort of trouble, but diamonds! orchids! at this
+					hour of the morning! No! No! No! The excellent <persName type="fictional"
+						>policeman</persName> would, when the time came, hold up his hand. Another
+						<objectName cert="high" evidence="internal" full="yes" instant="unknown"
+						type="vehicle" xml:space="default">motor car</objectName> passed. How
+					utterly unattractive! Why should a <persName>girl</persName> of that age paint
+					black round her eyes? And a young man, with a girl, at this hour, when the
+					country—The admirable <persName type="fictional">policeman</persName> raised his
+					hand and <persName key="Clarissa Dalloway" type="fictional">Clarissa</persName>
+					acknowledging his sway, taking her time, crossed, walked towards <placeName
+						key="Bond Street" type="street">Bond Street</placeName>; saw the narrow
+					crooked street, the yellow banners; the thick notched telegraph wires stretched
+					across the sky.</p>
+				<p>A hundred years ago her great-great-grandfather, <persName key="Seymour Parry"
+						>Seymour Parry</persName>, who ran away with Conway's daughter, had walked
+					down <placeName key="Bond Street" type="street">Bond Street</placeName>. Down
+						<persName key="Bond Street">Bond Street</persName>
+					<orgName type="family">the Parrys</orgName> had walked for a hundred years, and
+					might have met <orgName type="family">the Dalloways</orgName> (<orgName
+						type="family">Leighs</orgName> on the mother's side) going up. Her father
+					got his clothes from <orgName type="business">Hill's</orgName>. There was a
+						<objectName cert="high" evidence="internal" full="yes" instant="unknown"
+						type="goods" xml:space="default">roll of cloth</objectName> in the
+						<objectName cert="high" evidence="internal" full="yes" instant="unknown"
+						type="structure" xml:space="default">window</objectName>, and here just one
+						<objectName cert="high" evidence="internal" full="yes" instant="unknown"
+						type="glassware" xml:space="default">jar</objectName> on a <objectName
+						cert="high" evidence="internal" full="yes" instant="unknown"
+						type="furniture" xml:space="default">black table</objectName>, incredibly
+					expensive; like the thick pink salmon on the <objectName>ice block</objectName>
+					at the <orgName type="store">fishmonger's</orgName>. The <objectName
+						type="jewelry">jewels</objectName> were exquisite—<objectName type="jewelry"
+						>pink and orange stars</objectName>, paste, Spanish, she thought, and
+						<objectName type="jewelry">chains of old gold</objectName>; <objectName
+						type="jewelry">starry buckles</objectName>, <objectName type="jewelry"
+						>little brooches</objectName> which had been worn on sea green satin by
+					ladies with high head-dresses. But no good looking! One must economize. She must
+					go on past the <orgName type="store">picture dealer's</orgName> where one of the
+					odd French pictures hung, as if people had thrown confetti—pink and blue—for a
+					joke. If you had lived with pictures (and it's the same with books and music)
+					thought <persName key="Clarissa Dalloway" type="fictional">Clarissa</persName>,
+					passing the <placeName key="Aeolian Hall" type="venue">Aeolian Hall</placeName>,
+					you can't be taken in by a joke.</p>
+				<p>The river of <placeName key="Bond Street" type="street">Bond Street</placeName>
+					was clogged. There, like a Queen at a tournament, raised, regal, was <persName
+						key="Lady Bexborough">Lady Bexborough</persName>. She sat in her <objectName
+						type="vehicle">carriage</objectName>, upright, alone, looking through her
+						<objectName type="accessory">glasses</objectName>. The <objectName
+						cert="high" evidence="internal" full="yes" instant="unknown" type="clothing"
+						xml:space="default">white glove</objectName> was loose at her wrist. She was
+					in black, quite shabby, yet, thought <persName key="Clarissa Dalloway"
+						type="fictional">Clarissa</persName>, how extraordinarily it tells,
+					breeding, self-respect, never saying a word too much or letting people gossip;
+					an astonishing friend; no one can pick a hole in her after all these years, and
+					now, there she is, thought <persName key="Clarissa Dalloway"
+					>Clarissa</persName>, passing the <persName cert="high" evidence="internal"
+						full="yes" instant="unknown" key="Lady Bexborough" xml:space="default"
+						type="fictional">Countess</persName> who waited powdered, perfectly still,
+					and <persName key="Clarissa Dalloway">Clarissa</persName> would have given
+					anything to be like that, the mistress of <placeName type="residence"
+						>Clarefield</placeName>, talking politics, like a man. But she never goes
+					anywhere, thought <persName key="Clarissa Dalloway" type="fictional"
+						>Clarissa</persName>, and it's quite useless to ask her, and the <objectName
+						cert="high" evidence="internal" full="yes" instant="unknown" type="vehicle"
+						xml:space="default">carriage</objectName> went on and <persName
+						key="Lady Bexborough">Lady Bexborough</persName> was borne past like a Queen
+					at a tournament, though she had nothing to live for and <persName
+						key="Lord Bexborough" type="fictional">the old man</persName> is failing and
+					they <persName key="Lady Bexborough">say</persName> she is sick of it all,
+					thought <persName key="Clarissa Dalloway" type="fictional">Clarissa</persName>
+					and the tears actually rose to her eyes as she entered <orgName type="store">the
+						shop</orgName>.</p>
+				<p>"Good morning" said <persName key="Clarissa Dalloway">Clarissa</persName> in her
+					charming voice. "<objectName type="accessory">Gloves</objectName>" she said with
+					her exquisite friendliness and putting her <objectName cert="high"
+						evidence="internal" full="yes" instant="unknown" type="accessory"
+						xml:space="default">bag</objectName> on the <objectName type="furniture"
+						>counter</objectName> began, very slowly, to undo the <objectName
+						cert="high" evidence="internal" full="yes" instant="unknown"
+						type="accessory" xml:space="default">buttons</objectName>. "<objectName
+						type="clothing">White gloves</objectName>" she said. "Above the elbow" and
+					she looked straight into the <persName type="fictional">shopwoman</persName>'s
+					face—but this was not the girl she remembered? She looked quite old. "These
+					really don't fit" said Clarissa. The <persName>shop girl</persName> looked at
+					them. "Madame wears bracelets?" <persName key="Clarissa Dalloway"
+						type="fictional">Clarissa</persName> spread out her fingers. "Perhaps it's
+					my <objectName type="jewelry">rings</objectName>." And <persName>the
+						girl</persName> took the <objectName cert="high" evidence="internal"
+						full="yes" instant="unknown" type="clothing" xml:space="default">grey
+						gloves</objectName> with her to the end of the <objectName cert="high"
+						evidence="internal" full="yes" instant="unknown" type="furniture"
+						xml:space="default">counter</objectName>.</p>
+				<p>Yes, thought <persName key="Clarissa Dalloway" type="fictional"
+						>Clarissa</persName>, if it's the girl I remember she's twenty years older.
+					. . . There was only one other <persName>customer</persName>, sitting sideways
+					at the <objectName type="furniture">counter</objectName>, her elbow poised, her
+					bare hand drooping, vacant; like a figure on a Japanese fan, thought <persName
+						key="Clarissa Dalloway">Clarissa</persName>, too vacant perhaps, yet some
+					men would adore her. The lady shook her head sadly. Again the <objectName
+						type="clothing">gloves</objectName> were too large. She turned round the
+						<objectName type="furniture">glass</objectName>. "Above the wrist" she
+					reproached the grey-headed <persName>woman</persName>; who looked and
+					agreed.</p>
+				<p>They waited; a clock ticked; <placeName key="Bond Street" type="street">Bond
+						Street</placeName> hummed, dulled, distant; the <persName>woman</persName>
+					went away holding <objectName type="clothing">gloves</objectName>. "Above the
+					wrist" said the lady, mournfully, raising her voice. And she would have to order
+					chairs, ices, flowers, and cloak-room tickets, thought <persName
+						key="Clarissa Dalloway" type="fictional">Clarissa</persName>. The people she
+					didn't want would come; the others wouldn't. She would stand by the door. They
+					sold <objectName type="clothing">stockings</objectName>—<objectName
+						type="clothing">silk stockings</objectName>. A lady is known by her
+						<objectName type="clothing">gloves</objectName> and her <objectName
+						type="clothing">shoes</objectName>, old <persName
+						key="Uncle William (Parry?)">Uncle William</persName> used to say. And
+					through the hanging <objectName type="clothing">silk stockings</objectName>
+					quivering silver she looked at the lady, sloping shouldered, her hand drooping,
+					her bag slipping, her eyes vacantly on the floor. It would be intolerable if
+					dowdy women came to her party! Would one have liked <persName xml:id="keat01"
+						key="John Keats" type="real">Keats</persName> if he had worn <objectName
+						type="clothing">red socks</objectName>? Oh, at last—she drew into the
+						<objectName type="furniture">counter</objectName> and it flashed into her
+					mind:</p>
+				<p>"Do you remember before the war you had <objectName type="clothing">gloves with
+						pearl buttons</objectName>?"</p>
+				<p>"French gloves, Madame?"</p>
+				<p>"Yes, they were French" said <persName key="Clarissa Dalloway" type="fictional"
+						>Clarissa</persName>. The other <persName type="fictional">lady</persName>
+					rose very sadly and took her <objectName type="accessory">bag</objectName>, and
+					looked at the <objectName type="clothing">gloves</objectName> on the <objectName
+						type="furniture">counter</objectName>. But they were all too large—always
+					too large at the wrist.</p>
+				<p>"With pearl buttons" said the shop-girl, who looked ever so much older. She split
+					the lengths of tissue paper apart on the <objectName type="furniture"
+						>counter</objectName>. With pearl buttons, thought <persName
+						key="Clarissa Dalloway">Clarissa</persName>, perfectly simple—how
+					French!</p>
+				<p>"Madame's hands are so slender" said the <persName type="fictional">shop
+						girl</persName>, drawing the <objectName type="clothing">glove</objectName>
+					firmly, smoothly, down over her rings. And <persName key="Clarissa Dalloway"
+						>Clarissa</persName> looked at her arm in the <objectName type="furniture"
+						>looking glass</objectName>. The <objectName type="clothing"
+						>glove</objectName> hardly came to the elbow. Were there others half an inch
+					longer? Still it seemed tiresome to bother her—perhaps the one day in the month,
+					thought <persName key="Clarissa Dalloway" type="fictional">Clarissa</persName>,
+					when it's an agony to stand. "Oh, don't bother" she said. But the <objectName
+						type="clothing">gloves</objectName> were brought.</p>
+				<p>"Don't you get fearfully tired" she said in her charming voice, "standing? When
+					d'you get your holiday?"</p>
+				<p>"In <date>September</date>, Madame, when we're not so busy."</p>
+
+				<p>When we're in the country thought <persName key="Clarissa Dalloway"
+						>Clarissa</persName>. Or shooting. She has a fortnight at <placeName
+						key="Brighton" type="city">Brighton</placeName>. In some stuffy lodging. The
+					landlady takes the sugar. Nothing would be easier than to send her to <orgName
+						type="hotel">Mrs Lumley's</orgName> right in the country (and it was on the
+					tip of her tongue). But then she remembered how on their honeymoon <persName
+						key="Richard Dalloway" type="fictional">Dick</persName> had shown her the
+					folly of giving impulsively. It was much more important, he said, to get trade
+					with China. Of course he was right. And she could feel the girl wouldn't like to
+					be given things. There she was in her place. So was <persName
+						key="Richard Dalloway">Dick</persName>. Selling gloves was her job. She had
+					her own sorrows quite separate, "and now can never mourn, can never mourn" the
+					words ran in her head, "From the contagion of the world's slow stain" thought
+						<persName key="Clarissa Dalloway" type="fictional">Clarissa</persName>
+					holding her arm stiff, for there are moments when it seems utterly futile (the
+						<objectName type="clothing">glove</objectName> was drawn off leaving her arm
+					flecked with powder)—simply one doesn't believe, thought <persName
+						key="Clarissa Dalloway">Clarissa</persName>, any more in God.</p>
+				<p>The traffic suddenly roared; the <objectName type="clothing">silk
+						stockings</objectName> brightened. A <persName type="fictional"
+						>customer</persName> came in.</p>
+				<p>"<objectName type="clothing">White gloves</objectName>," she said, with some ring
+					in her voice that <persName key="Clarissa Dalloway" type="fictional"
+						>Clarissa</persName> remembered.</p>
+				<p>It used, thought <persName key="Clarissa Dalloway">Clarissa</persName>, to be so
+					simple. Down down through the air came the caw of the rooks. When <persName
+						key="Sylvia" type="fictional">Sylvia</persName> died, hundreds of years ago,
+					the yew hedges looked so lovely with the diamond webs in the mist before early
+					church. But if <persName key="Richard Dalloway">Dick</persName> were to die
+					to-morrow as for believing in God—no, she would let the children choose, but for
+					herself, like <persName key="Lady Bexborough" type="fictional">Lady
+						Bexborough</persName>, who opened the bazaar, they say, with the telegram in
+					her hand—Roden, her favourite, killed—she would go on. But why, if one doesn't
+					believe? For the sake of others, she thought, taking the <objectName
+						type="clothing">glove</objectName> in her hand. This girl would be much more
+					unhappy if she didn't believe.</p>
+				<p>"<measure quantity="30" type="currency">Thirty shillings</measure>" said the
+						<persName>shopwoman</persName>. "No, pardon me Madame, <measure
+						quantity="35" type="currency">thirty-five</measure>. The <objectName
+						type="clothing">French gloves</objectName> are more."</p>
+				<p>For one doesn't live for oneself, thought <persName key="Clarissa Dalloway"
+						type="fictional">Clarissa</persName>.</p>
+				<p>And then the other <persName type="fictional">customer</persName> took a
+						<objectName type="clothing">glove</objectName>, tugged it, and it split.</p>
+				<p>"There!" she exclaimed.</p>
+				<p>"A fault of the skin," said the <persName type="fictional">grey-headed
+						woman</persName> hurriedly. "Sometimes a drop of acid in tanning. Try this
+					pair, Madame."</p>
+				<p>"But it's an awful swindle to ask two pound ten!"</p>
+				<p><persName key="Clarissa Dalloway">Clarissa</persName> looked at the <persName
+						type="fictional">lady</persName>; the <persName type="fictional"
+						>lady</persName> looked at <persName key="Clarissa Dalloway"
+						type="fictional">Clarissa</persName>.</p>
+				<p>"<objectName type="clothing">Gloves</objectName> have never been quite so
+					reliable since <eventName key="World War I">the war</eventName>" said the
+						<persName type="fictional">shop-girl</persName>, apologizing, to <persName
+						key="Clarissa Dalloway" type="fictional">Clarissa</persName>.</p>
+
+				<p>But where had she seen the other lady?—elderly, with a frill under her chin;
+					wearing a <objectName type="accessory">black ribbon for gold
+						eyeglasses</objectName>; sensual, clever, like a<objectName cert="high"
+						evidence="internal" full="yes" instant="unknown" type="artwork"
+						xml:space="default">
+						<persName key="John Singer Sargent" type="real">Sargent</persName>
+						drawing</objectName>. How one can tell from a voice when people are in the
+					habit, thought <persName key="Clarissa Dalloway" type="fictional"
+						>Clarissa</persName>, of making other people—"It's a shade too tight" she
+					said—obey. The <persName type="fictional">shopwoman</persName> went off again.
+						<persName key="Clarissa Dalloway">Clarissa</persName> was left waiting. Fear
+					no more she repeated, playing her finger on the <objectName type="furniture"
+						>counter</objectName>. Fear no more the heat o' the sun. Fear no more she
+					repeated. There were little brown spots on her arm. And the girl crawled like a
+					snail. Thou thy wordly task hast done. Thousands of young men had died that
+					things might go on. At last! Half an inch above the elbow; pearl buttons; five
+					and a quarter. My dear slow coach, thought <persName key="Clarissa Dalloway"
+						type="fictional">Clarissa</persName>, do you think I can sit here the whole
+					morning? Now you'll take <time>twenty-five minutes</time> to bring me my
+					change!</p>
+				<p>There was a <eventName>violent explosion</eventName> in the <placeName
+						key="Bond Street">street</placeName> outside. The <orgName type="fictional"
+						>shopwomen</orgName> cowered behind the <objectName type="furniture"
+						>counters</objectName>. But <persName key="Clarissa Dalloway"
+						>Clarissa</persName>, sitting very up-right, smiled at the other lady.
+						"<persName key="Miss Anstruther" type="fictional">Miss
+					Anstruther</persName>!" she exclaimed.</p>
+			</div>
+
+			<div type="index">
+				<list xml:id="per_aut">
+					<head>Authors:</head>
+					<item>
+						<ref target="#keat01">Keats, John</ref>
+					</item>
+					<item>
+						<ref target="#shak01 #">Shakespeare, William</ref>
+					</item>
+					<item>
+						<ref target="#shel01">Shelley, Percy Bysshe</ref>
+					</item>
+				</list>
+			</div>
+
+		</body>
+	</text>
 </TEI>
