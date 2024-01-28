@@ -2765,12 +2765,12 @@
             <p>She had passed through the <placeName type="monument" key="Admiralty Arch" ref="http://www.wikidata.org/entity/Q359256">Admiralty Arch</placeName> and saw at the end of the empty road with
                its thin trees Victoria's white mound, Victoria's billowing motherliness, amplitude
                and homeliness, always ridiculous, yet how sublime, thought <persName key="Clarissa Dalloway" type="fictional">Mrs Dalloway</persName>, remembering
-               <placeName type="palace" key="Kensington Gardens" ref="http://www.wikidata.org/entity/Q822607">Kensington Gardens</placeName> and the <persName xml:id="vict01" key="Victoria" ref="http://www.wikidata.org/entity/Q9439">old lady in horn spectacles</persName> and being told by Nanny to
-               stop dead still and bow to the <persName xml:id="vict02" key="Victoria" type="real" ref="http://www.wikidata.org/entity/Q9439">Queen</persName>. The flag flew above <placeName key="Buckingham Palace" type="palace" ref="http://www.wikidata.org/entity/Q42182">the Palace</placeName>. The <persName xml:id="geor01" cert="high" evidence="internal" full="yes" instant="unknown" key="George V" xml:space="default" ref="http://www.wikidata.org/entity/Q269412">King</persName> and
-               <persName xml:id="mary01" key="Mary of Teck" ref="http://www.wikidata.org/entity/Q76927">Queen</persName> were back then. <persName key="Richard Dalloway" type="fictional">Dick</persName> had met her at lunch the other day—a thoroughly nice
+               <placeName type="palace" key="Kensington Gardens" ref="http://www.wikidata.org/entity/Q822607">Kensington Gardens</placeName> and the <persName key="Victoria" ref="http://www.wikidata.org/entity/Q9439">old lady in horn spectacles</persName> and being told by Nanny to
+               stop dead still and bow to the <persName key="Victoria" type="real" ref="http://www.wikidata.org/entity/Q9439">Queen</persName>. The flag flew above <placeName key="Buckingham Palace" type="palace" ref="http://www.wikidata.org/entity/Q42182">the Palace</placeName>. The <persName xml:id="geor01" cert="high" evidence="internal" full="yes" instant="unknown" key="George V" xml:space="default" ref="http://www.wikidata.org/entity/Q269412">King</persName> and
+               <persName key="Mary of Teck" ref="http://www.wikidata.org/entity/Q76927">Queen</persName> were back then. <persName key="Richard Dalloway" type="fictional">Dick</persName> had met her at lunch the other day—a thoroughly nice
                woman. It matters so much to the poor, thought <persName key="Clarissa Dalloway">Clarissa</persName>, and to the soldiers. A <objectName cert="high" evidence="internal" full="yes" instant="unknown" type="statue" xml:space="default">man in bronze stood heroically on a pedestal with a gun</objectName> on her left hand side—<eventName cert="high" evidence="internal" full="yes" instant="unknown" type="war" xml:space="default">the South African war</eventName>. It matters, thought <persName key="Clarissa Dalloway" type="fictional">Mrs Dalloway</persName> walking towards <placeName key="Buckingham Palace" type="palace" ref="http://www.wikidata.org/entity/Q42182">Buckingham Palace</placeName>.
                There it stood four-square, in the broad sunshine, uncompromising, plain. But it was
-               character she thought; something inborn in the race; what <orgName type="people">Indians</orgName> respected. <persName key="Queen Mary" type="both">The Queen</persName> went to hospitals, opened bazaars—<persName xml:id="mary02" key="Mary of Teck" ref="http://www.wikidata.org/entity/Q76927">the Queen of England</persName>, thought <persName>Clarissa</persName>,
+               character she thought; something inborn in the race; what <orgName type="people">Indians</orgName> respected. <persName key="Queen Mary" type="both">The Queen</persName> went to hospitals, opened bazaars—<persName key="Mary of Teck" ref="http://www.wikidata.org/entity/Q76927">the Queen of England</persName>, thought <persName>Clarissa</persName>,
                looking at <placeName key="Buckingham Palace" type="palace" ref="http://www.wikidata.org/entity/Q42182">the Palace</placeName>. Already at this hour a <objectName cert="high" evidence="internal" full="yes" instant="unknown" type="vehicle" xml:space="default">motor car</objectName> passed out at <objectName cert="high" evidence="internal" full="yes" instant="unknown" type="structure" xml:space="default">the gates</objectName>;
                <orgName type="military">soldiers</orgName> saluted; <objectName cert="high" evidence="internal" full="yes" instant="unknown" type="structure" xml:space="default">the gates</objectName> were shut. And <persName key="Clarissa Dalloway" type="fictional">Clarissa</persName>, crossing the road, entered <placeName cert="high" evidence="internal" full="yes" instant="unknown" key="St. James's Park" xml:space="default" type="park" ref="http://www.wikidata.org/entity/Q216914">the Park</placeName>, holding herself upright.</p>
             <p><date>June</date> had drawn out every leaf on the trees. The <orgName type="people">mothers of  Westminster</orgName> with mottled
@@ -2951,7 +2951,6 @@
       		<list xml:id="per_his">
       			<head>Historical People</head>
       		<item>
-      			<ref>Authors</ref>
       			<list xml:id="per_aut">
       			<head>Authors:</head>
       			<item>
@@ -2976,13 +2975,13 @@
       		<list xml:id="per_mon">
       			<head>Monarchs:</head>
       			<item>
-      				<ref target="#geor01">King George V</ref>
+      				<ref>King George V</ref>
       			</item>
       			<item>
-      				<ref target="#mary01 #mary02">Queen Mary (wife of George V)</ref>
+      				<ref>Queen Mary (wife of George V)</ref>
       			</item>
       			<item>
-      				<ref target="#vict01 #vict02">Queen Victoria</ref>
+      				<ref>Queen Victoria</ref>
       			</item>
       		</list></item></list>
       	</div>
