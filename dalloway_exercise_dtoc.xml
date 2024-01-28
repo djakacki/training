@@ -154,7 +154,7 @@
 	"id": "https://raw.githubusercontent.com/djakacki/training/main/dalloway_exercise_dtoc.xml?person_annotation_20240128133901147",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-01-28T18:39:01.147Z",
-	"dcterms:modified": "2024-01-28T18:39:01.147Z",
+	"dcterms:modified": "2024-01-28T18:39:13.388Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/djakacki",
 		"@type": [
@@ -198,6 +198,243 @@
 	}
 }]]>
         </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/djakacki/training/main/dalloway_exercise_dtoc.xml?place_annotation_20240128133925083",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-01-28T18:39:25.083Z",
+	"dcterms:modified": "2024-01-28T18:39:52.903Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/djakacki",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Diane Jakacki"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/djakacki/training/main/dalloway_exercise_dtoc.xml?place_annotation_20240128133925083#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/djakacki/training/main/dalloway_exercise_dtoc.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.4.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/djakacki/training/main/dalloway_exercise_dtoc.xml?place_annotation_20240128133925083#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/p[3]/placeName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:RealPlace",
+		"@id": "http://www.wikidata.org/entity/Q189960",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.4.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/djakacki/training/main/dalloway_exercise_dtoc.xml?organization_annotation_20240128134019665",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-01-28T18:40:19.665Z",
+	"dcterms:modified": "2024-01-28T18:40:33.298Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/djakacki",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Diane Jakacki"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/djakacki/training/main/dalloway_exercise_dtoc.xml?organization_annotation_20240128134019665#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/djakacki/training/main/dalloway_exercise_dtoc.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.4.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/djakacki/training/main/dalloway_exercise_dtoc.xml?organization_annotation_20240128134019665#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/p[12]/orgName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "org:Organization",
+		"@id": "http://www.wikidata.org/entity/Q34433",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.4.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/djakacki/training/main/dalloway_exercise_dtoc.xml?organization_annotation_20240128134038281",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-01-28T18:40:38.281Z",
+	"dcterms:modified": "2024-01-28T18:40:47.815Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/djakacki",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Diane Jakacki"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/djakacki/training/main/dalloway_exercise_dtoc.xml?organization_annotation_20240128134038281#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/djakacki/training/main/dalloway_exercise_dtoc.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.4.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/djakacki/training/main/dalloway_exercise_dtoc.xml?organization_annotation_20240128134038281#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/p[12]/orgName[2]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "org:Organization",
+		"@id": "http://www.wikidata.org/entity/Q11010",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.4.0"
+	}
+}]]>
+        </rdf:Description>
       </rdf:RDF></xenoData><encodingDesc>
          <projectDesc>
             <p>This encoded file was created by Diane Jakacki and made available for a Linked
@@ -212,7 +449,7 @@
          <div cert="high" org="composite" part="Y" sample="initial" type="story" xml:space="default">
             
             <head><title level="m" key="Woolf, Virginia, 1882-1941. | Mrs. Dalloway in Bond Street." ref="http://viaf.org/viaf/3520159477916427990000/">MRS DALLOWAY IN BOND STREET</title></head>
-            <byline>BY <persName ref="http://www.wikidata.org/entity/Q40909" key="Virginia Woolf">VIRGINIA WOOLF</persName></byline>
+            <byline>BY <persName key="Virginia Woolf" ref="http://www.wikidata.org/entity/Q40909">VIRGINIA WOOLF</persName></byline>
 
             <p><persName cert="high" evidence="internal" full="yes" instant="unknown" key="Clarissa Dalloway" xml:space="default" type="fictional">Mrs Dalloway</persName> said she would buy the gloves herself.</p>
             <p><objectName cert="high" evidence="internal" full="yes" instant="unknown" xml:space="default" type="building">Big Ben</objectName> was striking as she stepped out into the street. It was <time>eleven o'clock</time> and
@@ -220,7 +457,7 @@
                something solemn in the deliberate swing of the repeated strokes; something stirring
                in the murmur of wheels and the shuffle of footsteps.</p>
             <p>No doubt they were not all bound on errands of happiness. There is much more to be
-               said about us than that we walk <placeName>the streets of Westminster</placeName>. <objectName cert="high" evidence="internal" full="yes" instant="unknown" xml:space="default" type="building">Big Ben</objectName> too is nothing
+               said about us than that we walk <placeName key="Westminster" ref="http://www.wikidata.org/entity/Q189960">the streets of Westminster</placeName>. <objectName cert="high" evidence="internal" full="yes" instant="unknown" xml:space="default" type="building">Big Ben</objectName> too is nothing
                but steel rods consumed by rust were it not for the care of <orgName type="civic">H. M.'s Office of Works</orgName>.
                Only for <persName cert="high" evidence="internal" full="yes" instant="unknown" key="Clarissa Dalloway" xml:space="default" type="fictional">Mrs Dalloway</persName> the moment was complete; for <persName key="Clarissa Dalloway" type="fictional">Mrs Dalloway</persName> <date>June</date> was fresh. A
                happy childhood—and it was not to his daughters only that <persName>Justin Parry</persName> had seemed a
@@ -252,8 +489,8 @@
                probably that, <persName key="Hugh Whitbread">Hugh's</persName> manner had said so, said it perfectly—dear old <persName key="Hugh Whitbread" type="fictional">Hugh</persName>,
                thought <persName key="Clarissa Dalloway">Mrs Dalloway</persName>, remembering with amusement, with gratitude, with emotion, how
                shy, like a brother—one would rather die than speak to one's brother—<persName key="Hugh Whitbread" type="fictional">Hugh</persName> had always
-               been, when he was at <orgName type="university">Oxford</orgName>, and came over, and perhaps one of them (drat the thing!)
-               couldn't ride. How then could women sit in <orgName type="government">Parliament</orgName>? How could they do things with
+               been, when he was at <orgName type="university" key="University of Oxford" ref="http://www.wikidata.org/entity/Q34433">Oxford</orgName>, and came over, and perhaps one of them (drat the thing!)
+               couldn't ride. How then could women sit in <orgName type="government" key="Parliament of the United Kingdom" ref="http://www.wikidata.org/entity/Q11010">Parliament</orgName>? How could they do things with
                men? For there is this extraordinarily deep instinct, something inside one; you can't
                get over it; it's no use trying; and men like <persName key="Hugh Whitbread">Hugh</persName> respect it without our saying it,
                which is what one loves, thought <persName key="Clarissa Dalloway" type="fictional">Clarissa</persName>, in dear old <persName key="Hugh Whitbread">Hugh</persName>.</p>
