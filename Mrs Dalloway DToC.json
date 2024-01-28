@@ -6,7 +6,7 @@
     "documentContent": "",
     "documentTitle": "head/title",
     "documentAuthor": "",
-    "indexDocument": "",
+    "indexDocument": "//div[@type='index']",
     "documentImages": "",
     "documentNotes": "",
     "documentLinks": "",
@@ -41,7 +41,7 @@
             }
         ],
         "toc": [
-            "07b87cbac8261a70f03f8df25c05f1747e7c58a9893aa7630d857a4484dc70a4"
+            "6771c231ebc91929873c9e35aabc9451d6c0b752c0be4d179f3691805f1ad4b3"
         ]
     }
 }
