@@ -3184,16 +3184,21 @@
 			</div>
 
 			<div type="index">
-				<list xml:id="per_aut">
-					<head>Authors:</head>
+				<list xml:id="authors">
+					<head>Authors</head>					
 					<item>
-						<ref target="#keat01">Keats, John</ref>
-					</item>
-					<item>
-						<ref target="#shak01 #">Shakespeare, William</ref>
-					</item>
-					<item>
-						<ref target="#shel01">Shelley, Percy Bysshe</ref>
+						<ref target="#keat01 #shak01 #shel01">Authors</ref>
+								<list>
+									<item>
+									<ref target="#keat01">Keats, John</ref>
+								</item>
+								<item>
+									<ref target="#shak01 #">Shakespeare, William</ref>
+								</item>
+								<item>
+									<ref target="#shel01">Shelley, Percy Bysshe</ref>
+								</item>
+								</list>
 					</item>
 				</list>
 			</div>
