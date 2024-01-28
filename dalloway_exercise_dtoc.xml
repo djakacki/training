@@ -1323,10 +1323,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/djakacki/training/main/dalloway_exercise_dtoc.xml?place_annotation_20240128140518064",
+	"id": "https://raw.githubusercontent.com/djakacki/training/main/dalloway_exercise_dtoc.xml?place_annotation_20240128140718507",
 	"type": "oa:Annotation",
-	"dcterms:created": "2024-01-28T19:05:18.064Z",
-	"dcterms:modified": "2024-01-28T19:07:18.507Z",
+	"dcterms:created": "2024-01-28T19:07:18.507Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/djakacki",
 		"@type": [
@@ -1337,7 +1336,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/training/main/dalloway_exercise_dtoc.xml?place_annotation_20240128140518064#Target",
+		"@id": "https://raw.githubusercontent.com/djakacki/training/main/dalloway_exercise_dtoc.xml?place_annotation_20240128140718507#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/djakacki/training/main/dalloway_exercise_dtoc.xml",
@@ -1351,7 +1350,7 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/training/main/dalloway_exercise_dtoc.xml?place_annotation_20240128140518064#Selector",
+			"@id": "https://raw.githubusercontent.com/djakacki/training/main/dalloway_exercise_dtoc.xml?place_annotation_20240128140718507#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[15]/placeName[3]"
 		}
@@ -1481,10 +1480,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/djakacki/training/main/dalloway_exercise_dtoc.xml?place_annotation_20240128140906426",
+	"id": "https://raw.githubusercontent.com/djakacki/training/main/dalloway_exercise_dtoc.xml?place_annotation_20240128140918922",
 	"type": "oa:Annotation",
-	"dcterms:created": "2024-01-28T19:09:06.426Z",
-	"dcterms:modified": "2024-01-28T19:09:18.922Z",
+	"dcterms:created": "2024-01-28T19:09:18.922Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/djakacki",
 		"@type": [
@@ -1495,7 +1493,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/training/main/dalloway_exercise_dtoc.xml?place_annotation_20240128140906426#Target",
+		"@id": "https://raw.githubusercontent.com/djakacki/training/main/dalloway_exercise_dtoc.xml?place_annotation_20240128140918922#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/djakacki/training/main/dalloway_exercise_dtoc.xml",
@@ -1509,7 +1507,7 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/training/main/dalloway_exercise_dtoc.xml?place_annotation_20240128140906426#Selector",
+			"@id": "https://raw.githubusercontent.com/djakacki/training/main/dalloway_exercise_dtoc.xml?place_annotation_20240128140918922#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[15]/placeName[2]"
 		}
@@ -1561,10 +1559,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/djakacki/training/main/dalloway_exercise_dtoc.xml?place_annotation_20240128140928097",
+	"id": "https://raw.githubusercontent.com/djakacki/training/main/dalloway_exercise_dtoc.xml?place_annotation_20240128140939301",
 	"type": "oa:Annotation",
-	"dcterms:created": "2024-01-28T19:09:28.097Z",
-	"dcterms:modified": "2024-01-28T19:09:39.301Z",
+	"dcterms:created": "2024-01-28T19:09:39.301Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/djakacki",
 		"@type": [
@@ -1575,7 +1572,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/training/main/dalloway_exercise_dtoc.xml?place_annotation_20240128140928097#Target",
+		"@id": "https://raw.githubusercontent.com/djakacki/training/main/dalloway_exercise_dtoc.xml?place_annotation_20240128140939301#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/djakacki/training/main/dalloway_exercise_dtoc.xml",
@@ -1589,7 +1586,7 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/training/main/dalloway_exercise_dtoc.xml?place_annotation_20240128140928097#Selector",
+			"@id": "https://raw.githubusercontent.com/djakacki/training/main/dalloway_exercise_dtoc.xml?place_annotation_20240128140939301#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[15]/placeName"
 		}
@@ -1641,10 +1638,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/djakacki/training/main/dalloway_exercise_dtoc.xml?place_annotation_20240128141114347",
+	"id": "https://raw.githubusercontent.com/djakacki/training/main/dalloway_exercise_dtoc.xml?place_annotation_20240128141143202",
 	"type": "oa:Annotation",
-	"dcterms:created": "2024-01-28T19:11:14.347Z",
-	"dcterms:modified": "2024-01-28T19:11:43.202Z",
+	"dcterms:created": "2024-01-28T19:11:43.202Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/djakacki",
 		"@type": [
@@ -1655,7 +1651,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/training/main/dalloway_exercise_dtoc.xml?place_annotation_20240128141114347#Target",
+		"@id": "https://raw.githubusercontent.com/djakacki/training/main/dalloway_exercise_dtoc.xml?place_annotation_20240128141143202#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/djakacki/training/main/dalloway_exercise_dtoc.xml",
@@ -1669,7 +1665,7 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/training/main/dalloway_exercise_dtoc.xml?place_annotation_20240128141114347#Selector",
+			"@id": "https://raw.githubusercontent.com/djakacki/training/main/dalloway_exercise_dtoc.xml?place_annotation_20240128141143202#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[15]/placeName[4]"
 		}
@@ -1721,10 +1717,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/djakacki/training/main/dalloway_exercise_dtoc.xml?person_annotation_20240128141243859",
+	"id": "https://raw.githubusercontent.com/djakacki/training/main/dalloway_exercise_dtoc.xml?person_annotation_20240128141305932",
 	"type": "oa:Annotation",
-	"dcterms:created": "2024-01-28T19:12:43.859Z",
-	"dcterms:modified": "2024-01-28T19:13:05.932Z",
+	"dcterms:created": "2024-01-28T19:13:05.932Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/djakacki",
 		"@type": [
@@ -1735,7 +1730,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/training/main/dalloway_exercise_dtoc.xml?person_annotation_20240128141243859#Target",
+		"@id": "https://raw.githubusercontent.com/djakacki/training/main/dalloway_exercise_dtoc.xml?person_annotation_20240128141305932#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/djakacki/training/main/dalloway_exercise_dtoc.xml",
@@ -1749,7 +1744,7 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/training/main/dalloway_exercise_dtoc.xml?person_annotation_20240128141243859#Selector",
+			"@id": "https://raw.githubusercontent.com/djakacki/training/main/dalloway_exercise_dtoc.xml?person_annotation_20240128141305932#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[16]/persName[2]"
 		}
@@ -1879,10 +1874,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/djakacki/training/main/dalloway_exercise_dtoc.xml?place_annotation_20240128141330926",
+	"id": "https://raw.githubusercontent.com/djakacki/training/main/dalloway_exercise_dtoc.xml?place_annotation_20240128141346599",
 	"type": "oa:Annotation",
-	"dcterms:created": "2024-01-28T19:13:30.926Z",
-	"dcterms:modified": "2024-01-28T19:13:46.599Z",
+	"dcterms:created": "2024-01-28T19:13:46.599Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/djakacki",
 		"@type": [
@@ -1893,7 +1887,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/training/main/dalloway_exercise_dtoc.xml?place_annotation_20240128141330926#Target",
+		"@id": "https://raw.githubusercontent.com/djakacki/training/main/dalloway_exercise_dtoc.xml?place_annotation_20240128141346599#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/djakacki/training/main/dalloway_exercise_dtoc.xml",
@@ -1907,7 +1901,7 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/training/main/dalloway_exercise_dtoc.xml?place_annotation_20240128141330926#Selector",
+			"@id": "https://raw.githubusercontent.com/djakacki/training/main/dalloway_exercise_dtoc.xml?place_annotation_20240128141346599#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[16]/eventName/placeName"
 		}
@@ -1958,10 +1952,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/djakacki/training/main/dalloway_exercise_dtoc.xml?place_annotation_20240128141355430",
+	"id": "https://raw.githubusercontent.com/djakacki/training/main/dalloway_exercise_dtoc.xml?place_annotation_20240128141401827",
 	"type": "oa:Annotation",
-	"dcterms:created": "2024-01-28T19:13:55.430Z",
-	"dcterms:modified": "2024-01-28T19:14:01.827Z",
+	"dcterms:created": "2024-01-28T19:14:01.827Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/djakacki",
 		"@type": [
@@ -1972,7 +1965,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/training/main/dalloway_exercise_dtoc.xml?place_annotation_20240128141355430#Target",
+		"@id": "https://raw.githubusercontent.com/djakacki/training/main/dalloway_exercise_dtoc.xml?place_annotation_20240128141401827#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/djakacki/training/main/dalloway_exercise_dtoc.xml",
@@ -1986,7 +1979,7 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/training/main/dalloway_exercise_dtoc.xml?place_annotation_20240128141355430#Selector",
+			"@id": "https://raw.githubusercontent.com/djakacki/training/main/dalloway_exercise_dtoc.xml?place_annotation_20240128141401827#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[16]/placeName[2]"
 		}
@@ -2037,10 +2030,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/djakacki/training/main/dalloway_exercise_dtoc.xml?place_annotation_20240128141414977",
+	"id": "https://raw.githubusercontent.com/djakacki/training/main/dalloway_exercise_dtoc.xml?place_annotation_20240128141422402",
 	"type": "oa:Annotation",
-	"dcterms:created": "2024-01-28T19:14:14.977Z",
-	"dcterms:modified": "2024-01-28T19:14:22.402Z",
+	"dcterms:created": "2024-01-28T19:14:22.402Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/djakacki",
 		"@type": [
@@ -2051,7 +2043,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/training/main/dalloway_exercise_dtoc.xml?place_annotation_20240128141414977#Target",
+		"@id": "https://raw.githubusercontent.com/djakacki/training/main/dalloway_exercise_dtoc.xml?place_annotation_20240128141422402#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/djakacki/training/main/dalloway_exercise_dtoc.xml",
@@ -2065,7 +2057,7 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/training/main/dalloway_exercise_dtoc.xml?place_annotation_20240128141414977#Selector",
+			"@id": "https://raw.githubusercontent.com/djakacki/training/main/dalloway_exercise_dtoc.xml?place_annotation_20240128141422402#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[16]/placeName[4]"
 		}
@@ -2117,10 +2109,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/djakacki/training/main/dalloway_exercise_dtoc.xml?place_annotation_20240128141429255",
+	"id": "https://raw.githubusercontent.com/djakacki/training/main/dalloway_exercise_dtoc.xml?place_annotation_20240128141438016",
 	"type": "oa:Annotation",
-	"dcterms:created": "2024-01-28T19:14:29.255Z",
-	"dcterms:modified": "2024-01-28T19:14:38.016Z",
+	"dcterms:created": "2024-01-28T19:14:38.016Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/djakacki",
 		"@type": [
@@ -2131,7 +2122,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/training/main/dalloway_exercise_dtoc.xml?place_annotation_20240128141429255#Target",
+		"@id": "https://raw.githubusercontent.com/djakacki/training/main/dalloway_exercise_dtoc.xml?place_annotation_20240128141438016#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/djakacki/training/main/dalloway_exercise_dtoc.xml",
@@ -2145,7 +2136,7 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/training/main/dalloway_exercise_dtoc.xml?place_annotation_20240128141429255#Selector",
+			"@id": "https://raw.githubusercontent.com/djakacki/training/main/dalloway_exercise_dtoc.xml?place_annotation_20240128141438016#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[16]/placeName[5]"
 		}
@@ -2197,10 +2188,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/djakacki/training/main/dalloway_exercise_dtoc.xml?place_annotation_20240128141446829",
+	"id": "https://raw.githubusercontent.com/djakacki/training/main/dalloway_exercise_dtoc.xml?place_annotation_20240128141456329",
 	"type": "oa:Annotation",
-	"dcterms:created": "2024-01-28T19:14:46.829Z",
-	"dcterms:modified": "2024-01-28T19:14:56.329Z",
+	"dcterms:created": "2024-01-28T19:14:56.329Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/djakacki",
 		"@type": [
@@ -2211,7 +2201,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/training/main/dalloway_exercise_dtoc.xml?place_annotation_20240128141446829#Target",
+		"@id": "https://raw.githubusercontent.com/djakacki/training/main/dalloway_exercise_dtoc.xml?place_annotation_20240128141456329#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/djakacki/training/main/dalloway_exercise_dtoc.xml",
@@ -2225,7 +2215,7 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/training/main/dalloway_exercise_dtoc.xml?place_annotation_20240128141446829#Selector",
+			"@id": "https://raw.githubusercontent.com/djakacki/training/main/dalloway_exercise_dtoc.xml?place_annotation_20240128141456329#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[16]/placeName[6]"
 		}
@@ -2276,10 +2266,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/djakacki/training/main/dalloway_exercise_dtoc.xml?place_annotation_20240128141506127",
+	"id": "https://raw.githubusercontent.com/djakacki/training/main/dalloway_exercise_dtoc.xml?place_annotation_20240128141521530",
 	"type": "oa:Annotation",
-	"dcterms:created": "2024-01-28T19:15:06.127Z",
-	"dcterms:modified": "2024-01-28T19:15:21.530Z",
+	"dcterms:created": "2024-01-28T19:15:21.530Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/djakacki",
 		"@type": [
@@ -2290,7 +2279,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/training/main/dalloway_exercise_dtoc.xml?place_annotation_20240128141506127#Target",
+		"@id": "https://raw.githubusercontent.com/djakacki/training/main/dalloway_exercise_dtoc.xml?place_annotation_20240128141521530#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/djakacki/training/main/dalloway_exercise_dtoc.xml",
@@ -2304,7 +2293,7 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/training/main/dalloway_exercise_dtoc.xml?place_annotation_20240128141506127#Selector",
+			"@id": "https://raw.githubusercontent.com/djakacki/training/main/dalloway_exercise_dtoc.xml?place_annotation_20240128141521530#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[16]/placeName[7]"
 		}
@@ -2390,6 +2379,162 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.4.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/djakacki/training/main/dalloway_exercise_dtoc.xml?person_annotation_20240128141809949",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-01-28T19:18:09.949Z",
+	"dcterms:modified": "2024-01-28T19:18:18.505Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/djakacki",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Diane Jakacki"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/djakacki/training/main/dalloway_exercise_dtoc.xml?person_annotation_20240128141809949#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/djakacki/training/main/dalloway_exercise_dtoc.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.4.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/djakacki/training/main/dalloway_exercise_dtoc.xml?person_annotation_20240128141809949#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/p[16]/persName[10]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://www.wikidata.org/entity/Q371280",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.4.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/djakacki/training/main/dalloway_exercise_dtoc.xml?title_annotation_20240128141823964",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-01-28T19:18:23.964Z",
+	"dcterms:modified": "2024-01-28T19:18:23.964Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/djakacki",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Diane Jakacki"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/djakacki/training/main/dalloway_exercise_dtoc.xml?title_annotation_20240128141823964#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/djakacki/training/main/dalloway_exercise_dtoc.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.4.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/djakacki/training/main/dalloway_exercise_dtoc.xml?title_annotation_20240128141823964#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/p[16]/title"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "bf:Title"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -2502,7 +2647,7 @@
                stream was endless—endless—endless.
                Lords, Ascot, Hurlingham—what was it? What a duck, she thought, looking at the
                frontispiece of some book of memoirs spread wide in the bow window, <persName key="Joshua Reynolds" type="real">Sir Joshua</persName>
-               perhaps or <persName key="George Romney">Romney</persName>; arch, bright, demure; the sort of girl—like her own <persName key="Elizabeth Dalloway" type="fictional">Elizabeth</persName>—the
+               perhaps or <persName key="George Romney" ref="http://www.wikidata.org/entity/Q371280">Romney</persName>; arch, bright, demure; the sort of girl—like her own <persName key="Elizabeth Dalloway" type="fictional">Elizabeth</persName>—the
                only <emph cert="high" rend="italic" xml:space="default">real</emph> sort of girl. And there was that absurd book, <title key="Mr. Sponge's Sporting Tours" level="m">Soapy Sponge</title>, which <persName cert="high" evidence="internal" full="yes" instant="unknown" key="Jim" xml:space="default" type="fictional">Jim</persName> used to quote by the yard; and <title key="Shakespeare's Sonnets" level="m">Shakespeare's Sonnets</title>. She knew them
                by heart. <persName key="Phil" type="fictional">Phil</persName> and she had argued all day about the Dark Lady, and <persName key="Richard Dalloway">Dick</persName> had said
                straight out at dinner that night that he had never heard of her. Really, she had
