@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-stylesheet type="text/css" href="https://cwrc.ca/templates/css/tei.css"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://cwrc.ca/templates/css/tei.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <teiHeader xml:lang="en">
       <fileDesc>
          <titleStmt>
@@ -43,7 +40,7 @@
             </bibl>
          </sourceDesc>
       </fileDesc>
-      <encodingDesc>
+      <xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#"/></xenoData><encodingDesc>
          <projectDesc>
             <p>This encoded file was created by Diane Jakacki and made available for a Linked
                Editing Academic Framework (LEAF) / LEAF-Writer workshop. This file is not meant for
@@ -55,7 +52,7 @@
       <body>
 
          <div cert="high" org="composite" part="Y" sample="initial" type="story" xml:space="default">
-            <pb n="20" facs="https://raw.githubusercontent.com/LEAF-VRE/leaf_workshops/main/exercises/MrsDalloway_in_BondStreet/dalloway_images/dalloway_01.jpg"/>
+            
             <head><title level="m">MRS DALLOWAY IN BOND STREET</title></head>
             <byline>BY <persName>VIRGINIA WOOLF</persName></byline>
 
@@ -86,7 +83,7 @@
             <p>"Good morning to you!" said <persName key="Hugh Whitbread" type="fictional">Hugh Whitbread</persName> raising his hat rather extravagantly by
                the china shop, for they had known each other as children. "Where are you off
                to?"</p>
-            <pb n="21" facs="https://raw.githubusercontent.com/LEAF-VRE/leaf_workshops/main/exercises/MrsDalloway_in_BondStreet/dalloway_images/dalloway_02.jpg"/>
+            
             <p>"I love walking in <placeName type="city">London</placeName>" said <persName key="Clarissa Dalloway">Mrs Dalloway</persName>. "Really it's better than walking in the
                country!"</p>
             <p>"We've just come up" said <persName key="Hugh Whitbread" type="fictional">Hugh Whitbread</persName>. "Unfortunately to see doctors."</p>
@@ -113,7 +110,7 @@
                character she thought; something inborn in the race; what <orgName type="people">Indians</orgName> respected. <persName key="Queen Mary" type="both">The Queen</persName> went to hospitals, opened bazaars—<persName key="Queen Mary">the Queen of England</persName>, thought <persName>Clarissa</persName>,
                looking at <placeName key="Buckingham Palace" type="palace">the Palace</placeName>. Already at this hour a <objectName cert="high" evidence="internal" full="yes" instant="unknown" type="vehicle" xml:space="default">motor car</objectName> passed out at <objectName cert="high" evidence="internal" full="yes" instant="unknown" type="structure" xml:space="default">the gates</objectName>;
                <orgName type="military">soldiers</orgName> saluted; <objectName cert="high" evidence="internal" full="yes" instant="unknown" type="structure" xml:space="default">the gates</objectName> were shut. And <persName key="Clarissa Dalloway" type="fictional">Clarissa</persName>, crossing the road, entered <placeName cert="high" evidence="internal" full="yes" instant="unknown" key="St James Park" xml:space="default" type="park">the Park</placeName>, holding herself upright.</p>
-            <p><date>June</date> had drawn out every leaf on the trees. The <orgName type="people">mothers of <pb n="22" facs="https://raw.githubusercontent.com/LEAF-VRE/leaf_workshops/main/exercises/MrsDalloway_in_BondStreet/dalloway_images/dalloway_03.jpg"/> Westminster</orgName> with mottled
+            <p><date>June</date> had drawn out every leaf on the trees. The <orgName type="people">mothers of  Westminster</orgName> with mottled
                breasts gave suck to their young. Quite respectable girls lay stretched on the grass.
                An elderly man, stooping very stiffly, picked up a crumpled paper, spread it out flat
                and flung it away. How horrible! Last night at <placeName type="government">the Embassy</placeName> <persName key="Sir Dighton">Sir Dighton</persName> had said "If I
