@@ -3335,12 +3335,12 @@
 						</list>
 					</item>
 				</list>
-				<list xml:id="monarchs">
-					<head>Monarchs</head>
+				<list xml:id="royals">
+					<head>Royals</head>
 					<item xml:id="monarch_list">
 						<ref
 							target="#persName_kpq_5gt_g1c #persName_lpq_5gt_g1c #geor01 #persName_npq_5gt_g1c #persName_upq_5gt_g1c"
-							>Monarchs</ref>
+							>Royals</ref>
 						<list>
 							<item xml:id="mon01">
 								<ref target="#persName_kpq_5gt_g1c #persName_lpq_5gt_g1c">Queen
