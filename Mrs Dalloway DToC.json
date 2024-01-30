@@ -16,8 +16,20 @@
     "curation": {
         "markup": [
             {
+                "xpath": "//persName[@key='Elizabeth Dalloway']",
+                "label": "Elizabeth Dalloway"
+            },
+            {
+                "xpath": "//persName[@key='Hugh Whitbread']",
+                "label": "Hugh Whitbread"
+            },
+            {
                 "xpath": "//persName[@key='Clarissa Dalloway']",
                 "label": "Mrs Dalloway"
+            },
+            {
+                "xpath": "//persName[@key='Richard Dalloway']",
+                "label": "Richard Dalloway"
             },
             {
                 "xpath": "//eventName",
