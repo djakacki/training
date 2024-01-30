@@ -3304,7 +3304,7 @@
 			</div>
 			<div type="index">
 				<list xml:id="authors">
-					<head>Authors:</head>
+					<head>Authors</head>
 					<item xml:id="author_list">
 						<ref target="#keat01 #shak01 #shel01">Authors:</ref>
 						<list>
@@ -3322,7 +3322,7 @@
 					</item>
 				</list>
 				<list xml:id="artists">
-					<head>Artists:</head>
+					<head>Artists</head>
 					<item xml:id="artist_list">
 						<ref target="#reyn01 #romn01">Artists:</ref>
 						<list>
@@ -3336,18 +3336,67 @@
 					</item>
 				</list>
 				<list xml:id="monarchs">
-					<head>Monarchs:</head>
+					<head>Monarchs</head>
 					<item xml:id="monarch_list">
-						<ref target="#persName_kpq_5gt_g1c #persName_lpq_5gt_g1c #geor01 #persName_npq_5gt_g1c #persName_upq_5gt_g1c"></ref>
+						<ref
+							target="#persName_kpq_5gt_g1c #persName_lpq_5gt_g1c #geor01 #persName_npq_5gt_g1c #persName_upq_5gt_g1c"
+							>Monarchs</ref>
 						<list>
 							<item xml:id="mon01">
-								<ref target="#persName_kpq_5gt_g1c #persName_lpq_5gt_g1c">Queen Victoria</ref>
+								<ref target="#persName_kpq_5gt_g1c #persName_lpq_5gt_g1c">Queen
+									Victoria</ref>
 							</item>
 							<item>
 								<ref target="#geor01">King George V</ref>
 							</item>
 							<item>
-								<ref target="#persName_upq_5gt_g1c #persName_npq_5gt_g1c">Queen Mary</ref>
+								<ref target="#persName_upq_5gt_g1c #persName_npq_5gt_g1c">Queen
+									Mary</ref>
+							</item>
+						</list>
+					</item>
+				</list>
+				<list>
+					<head>London Places</head>
+					<item>
+						<ref
+							target="#placeName_mqq_5gt_g1c #placeName_zpq_5gt_g1c #placeName_lqq_5gt_g1c #placeName_erq_5gt_g1c #placeName_xqq_5gt_g1c #placeName_rqq_5gt_g1c #placeName_jqq_5gt_g1c #placeName_jpq_5gt_g1c #placeName_arq_5gt_g1c #placeName_uqq_5gt_g1c #placeName_brq_5gt_g1c #placeName_rpq_5gt_g1c #placeName_mpq_5gt_g1c #placeName_rpq_5gt_g1c #placeName_yrq_5gt_g1c #placeName_frq_5gt_g1c #placeName_yrq_5gt_g1c #placeName_yrq_5gt_g1c #placeName_jsq_5gt_g1c #placeName_itq_5gt_g1c #placeName_pvq_5gt_g1c #placeName_hsq_5gt_g1c #placeName_kqq_5gt_g1c"
+							>London Places</ref>
+						<list>
+							<item>
+								<ref target="#placeName_hsq_5gt_g1c">Aeolian Hall</ref>
+							</item>
+							<item>
+								<ref target="#placeName_kqq_5gt_g1c">Arlington Street</ref>
+							</item>
+							<item>
+								<ref
+									target="#placeName_yrq_5gt_g1c #placeName_frq_5gt_g1c #placeName_yrq_5gt_g1c #placeName_yrq_5gt_g1c #placeName_jsq_5gt_g1c #placeName_itq_5gt_g1c #placeName_pvq_5gt_g1c"
+									>Bond Street</ref>
+							</item>
+							<item>
+								<ref target="#placeName_rpq_5gt_g1c #placeName_mpq_5gt_g1c #placeName_rpq_5gt_g1c">Buckingham Palace</ref>
+							</item>
+							<item>
+								<ref target="#placeName_brq_5gt_g1c">Claridge's Hotel</ref>
+							</item>
+							<item>
+								<ref target="#placeName_uqq_5gt_g1c #placeName_arq_5gt_g1c">Devonshire House</ref>
+							</item>
+							<item>
+								<ref target="#placeName_jpq_5gt_g1c">Kensington Gardens</ref>
+							</item>
+							<item>
+								<ref target="#placeName_jqq_5gt_g1c #placeName_rqq_5gt_g1c #placeName_xqq_5gt_g1c">Picadilly</ref>
+							</item>
+							<item>
+								<ref target="#placeName_erq_5gt_g1c">St James's Palace</ref>
+							</item>
+							<item>
+								<ref target="#placeName_zpq_5gt_g1c #placeName_mqq_5gt_g1c">St James's Park</ref>
+							</item>
+							<item>
+								<ref target="#placeName_lqq_5gt_g1c">The Mall</ref>
 							</item>
 						</list>
 					</item>
