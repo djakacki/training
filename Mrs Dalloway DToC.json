@@ -1,18 +1,17 @@
 {
-    "editionTitle": "Mrs Dalloway in Bond Street",
-    "editionSubtitle": "",
-    "ignoreNamespace": true,
-    "documents": "//div[@type='story']",
-    "documentContent": "",
-    "documentTitle": "head/title",
-    "documentAuthor": "",
-    "indexDocument": "//div[@type='index']",
-    "documentImages": "",
-    "documentNotes": "",
-    "documentLinks": "",
     "inputs": [
         "https://raw.githubusercontent.com/djakacki/training/main/dalloway_exercise_dtoc.xml"
     ],
+    "documents": "//div[@type='story']",
+    "ignoreNamespace": true,
+    "documentTitle": "head/title",
+    "documentAuthor": "",
+    "documentImages": "",
+    "documentNotes": "",
+    "documentLinks": "",
+    "indexDocument": "//div[@type='index']",
+    "editionTitle": "Mrs Dalloway in Bond Street",
+    "editionSubtitle": "",
     "curation": {
         "markup": [
             {
@@ -53,7 +52,7 @@
             }
         ],
         "toc": [
-            "6771c231ebc91929873c9e35aabc9451d6c0b752c0be4d179f3691805f1ad4b3"
+            "d851bca70463c82a4118bc7cfd22dbfbbd174952c1c4f15a39c2cebaaae6708c"
         ]
     }
 }
