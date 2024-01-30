@@ -3357,6 +3357,23 @@
 					</item>
 				</list>
 				<list>
+					<head>Published Works</head>
+					<item>
+						<ref target="#spon01 #sonn01 #cran01">Works Mentioned</ref>
+						<list>
+							<item>
+								<ref target="#sonn01">Sonnets (William Shakespeare)</ref>
+							</item>
+							<item>
+								<ref target="#cran01">Cranford (Elizabeth Gaskell)</ref>
+							</item>
+							<item>
+								<ref target="#spon01">Mr. Sponge's Sporting Tour (R.S. Surtees</ref>
+							</item>
+						</list>
+					</item>
+				</list>
+				<list>
 					<head>London Places</head>
 					<item>
 						<ref
