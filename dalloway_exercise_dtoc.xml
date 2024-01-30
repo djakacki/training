@@ -2961,7 +2961,7 @@
 				<p>A hundred years ago her great-great-grandfather, <persName key="Seymour Parry"
 						>Seymour Parry</persName>, who ran away with Conway's daughter, had walked
 					down <placeName key="Bond Street" type="street">Bond Street</placeName>. Down
-						<persName key="Bond Street">Bond Street</persName>
+						<placeName key="Bond Street">Bond Street</placeName>
 					<orgName type="family">the Parrys</orgName> had walked for a hundred years, and
 					might have met <orgName type="family">the Dalloways</orgName> (<orgName
 						type="family">Leighs</orgName> on the mother's side) going up. Her father
