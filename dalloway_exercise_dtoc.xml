@@ -3338,16 +3338,16 @@
 				<list xml:id="monarchs">
 					<head>Monarchs:</head>
 					<item xml:id="monarch_list">
-						<ref target="#persName_kpq_5gt_g1c #persName_lpq_5gt_g1c #geor01 #persName_npq_5gt_g1c #persName_tpq_5gt_g1c"></ref>
+						<ref target="#persName_kpq_5gt_g1c #persName_lpq_5gt_g1c #geor01 #persName_npq_5gt_g1c #persName_upq_5gt_g1c"></ref>
 						<list>
 							<item xml:id="mon01">
 								<ref target="#persName_kpq_5gt_g1c #persName_lpq_5gt_g1c">Queen Victoria</ref>
 							</item>
 							<item>
-								<ref target="#geor01 #persName_npq_5gt_g1c">King George V</ref>
+								<ref target="#geor01">King George V</ref>
 							</item>
 							<item>
-								<ref target="#persName_upq_5gt_g1c persName_tpq_5gt_g1c">Queen Mary</ref>
+								<ref target="#persName_upq_5gt_g1c #persName_npq_5gt_g1c">Queen Mary</ref>
 							</item>
 						</list>
 					</item>
