@@ -2990,8 +2990,8 @@
 						key="Clarissa Dalloway" xml:id="persName_mrq_5gt_g1c">Clarissa</persName>,
 					for she remembered the broad pages; the sentences ending; the characters—how one
 					talked about them as if they were real. For all the great things one must go to
-					the past, she thought. From the contagion of the world's slow stain. . . . Fear
-					no more the heat o' the sun. . . . And now can never mourn, can never mourn, she
+					the past, she thought. <span xml:id="keats1">From the contagion of the world's slow stain</span>. . . . <span xml:id="cymb1">Fear
+					no more the heat o' the sun</span>. . . . <span xml:id="keats2">And now can never mourn</span>, can never mourn, she
 					repeated, her eyes straying over the window; for it ran in her head; the test of
 					great poetry; the moderns had never written anything one wanted to read about
 					death, she thought; and turned.</p>
@@ -3284,7 +3284,7 @@
 						>shopwoman</persName> went off again. <persName key="Clarissa Dalloway"
 						xml:id="persName_mvq_5gt_g1c">Clarissa</persName> was left waiting. Fear no
 					more she repeated, playing her finger on the <objectName type="furniture"
-						>counter</objectName>. Fear no more the heat o' the sun. Fear no more she
+						>counter</objectName>. <span xml:id="cymb2">Fear no more the heat o' the sun.</span> Fear no more she
 					repeated. There were little brown spots on her arm. And the girl crawled like a
 					snail. Thou thy wordly task hast done. Thousands of young men had died that
 					things might go on. At last! Half an inch above the elbow; pearl buttons; five
@@ -3359,10 +3359,16 @@
 				<list>
 					<head>Published Works</head>
 					<item>
-						<ref target="#spon01 #sonn01 #cran01">Works Mentioned</ref>
+						<ref target="#spon01 #sonn01 #cran01 #cymb1 #cymb2 #keats1 #keats2">Works Mentioned</ref>
 						<list>
 							<item>
 								<ref target="#sonn01">Sonnets (William Shakespeare)</ref>
+							</item>							
+							<item>
+								<ref target="#cymb1 #cymb2">Cymbeline (William Shakespeare)</ref>
+							</item>
+							<item>
+								<ref target="#keat1 #keats2">Adonais: An Elegy on the Death of John Keats (Shelley)</ref>
 							</item>
 							<item>
 								<ref target="#cran01">Cranford (Elizabeth Gaskell)</ref>
@@ -3370,6 +3376,7 @@
 							<item>
 								<ref target="#spon01">Mr. Sponge's Sporting Tour (R.S. Surtees</ref>
 							</item>
+
 						</list>
 					</item>
 				</list>
