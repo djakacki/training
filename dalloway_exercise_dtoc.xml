@@ -2702,84 +2702,6 @@
 	}
 }]]>
         </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
-	"@context": {
-		"dcterms:created": {
-			"@type": "xsd:dateTime",
-			"@id": "dcterms:created"
-		},
-		"dcterms:issued": {
-			"@type": "xsd:dateTime",
-			"@id": "dcterms:issued"
-		},
-		"oa:motivatedBy": {
-			"@type": "oa:Motivation"
-		},
-		"@language": "en",
-		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
-		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
-		"as": "http://www.w3.org/ns/activitystreams#",
-		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
-		"dc": "http://purl.org/dc/elements/1.1/",
-		"dcterms": "http://purl.org/dc/terms/",
-		"foaf": "http://xmlns.com/foaf/0.1/",
-		"geo": "http://www.geonames.org/ontology#",
-		"oa": "http://www.w3.org/ns/oa#",
-		"schema": "http://schema.org/",
-		"xsd": "http://www.w3.org/2001/XMLSchema#",
-		"fabio": "https://purl.org/spar/fabio#",
-		"bf": "http://www.openlinksw.com/schemas/bif#",
-		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
-		"org": "http://www.w3.org/ns/org#"
-	},
-	"id": "https://raw.githubusercontent.com/djakacki/training/main/dalloway_exercise_dtoc.xml?link_annotation_20240311105056918",
-	"type": "oa:Annotation",
-	"dcterms:created": "2024-03-11T14:50:56.918Z",
-	"dcterms:modified": "2024-03-11T14:50:56.918Z",
-	"dcterms:creator": {
-		"@id": "https://orcid.org/0000-0002-7836-1223",
-		"@type": [
-			"cwrc:NaturalPerson",
-			"schema:Person"
-		],
-		"cwrc:hasName": "Diane Jakacki"
-	},
-	"oa:motivatedBy": "oa:linking",
-	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/training/main/dalloway_exercise_dtoc.xml?link_annotation_20240311105056918#Target",
-		"@type": "oa:SpecificResource",
-		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/djakacki/training/main/dalloway_exercise_dtoc.xml",
-			"@type": "dctypes:Text",
-			"dc:format": "text/xml"
-		},
-		"oa:renderedVia": {
-			"@id": "https://leaf-writer.leaf-vre.org",
-			"@type": "as:Application",
-			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.4.0"
-		},
-		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/training/main/dalloway_exercise_dtoc.xml?link_annotation_20240311105056918#Selector",
-			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[3]/objectName/ref"
-		}
-	},
-	"oa:hasBody": {
-		"@id": "https://en.wikipedia.org/wiki/Big_Ben",
-		"@type": "cnt:ContentAsText"
-	},
-	"as:generator": {
-		"@id": "https://leaf-writer.leaf-vre.org",
-		"@type": "as:Application",
-		"rdfs:label": "LEAF-Writer",
-		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.4.0"
-	}
-}]]>
-        </rdf:Description>
       </rdf:RDF></xenoData><encodingDesc>
 			<projectDesc>
 				<p xml:id="p_pnq_5gt_g1c">This encoded file was created by Diane Jakacki and made
@@ -2805,7 +2727,7 @@
 					footsteps.</p>
 				<p xml:id="p_unq_5gt_g1c">No doubt they were not all bound on errands of happiness.
 					There is much more to be said about us than that we walk <placeName key="Westminster" ref="http://www.wikidata.org/entity/Q189960" xml:id="placeName_vnq_5gt_g1c">the streets of Westminster</placeName>.
-						<objectName cert="high" evidence="internal" full="yes" instant="unknown" xml:space="default" type="building"><ref target="https://en.wikipedia.org/wiki/Big_Ben">Big Ben</ref></objectName> too is nothing but
+						<objectName cert="high" evidence="internal" full="yes" instant="unknown" xml:space="default" type="building">Big Ben</objectName> too is nothing but
 					steel rods consumed by rust were it not for the care of <orgName type="civic" xml:id="orgName_wnq_5gt_g1c">H. M.'s Office of Works</orgName>. Only for
 						<persName cert="high" evidence="internal" full="yes" instant="unknown" key="Clarissa Dalloway" xml:space="default" type="fictional" xml:id="persName_xnq_5gt_g1c">Mrs Dalloway</persName> the moment was
 					complete; for <persName key="Clarissa Dalloway" type="fictional" xml:id="persName_ynq_5gt_g1c">Mrs Dalloway</persName>
