@@ -2734,10 +2734,10 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/djakacki/training/main/dalloway_exercise_dtoc.xml?correction_annotation_20240311103325190",
+	"id": "https://raw.githubusercontent.com/djakacki/training/main/dalloway_exercise_dtoc.xml?correction_annotation_20240311103911125",
 	"type": "oa:Annotation",
-	"dcterms:created": "2024-03-11T14:33:25.190Z",
-	"dcterms:modified": "2024-03-11T14:33:25.190Z",
+	"dcterms:created": "2024-03-11T14:39:11.125Z",
+	"dcterms:modified": "2024-03-11T14:39:11.125Z",
 	"dcterms:creator": {
 		"@id": "https://orcid.org/0000-0002-7836-1223",
 		"@type": [
@@ -2748,7 +2748,7 @@
 	},
 	"oa:motivatedBy": "oa:editing",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/training/main/dalloway_exercise_dtoc.xml?correction_annotation_20240311103325190#Target",
+		"@id": "https://raw.githubusercontent.com/djakacki/training/main/dalloway_exercise_dtoc.xml?correction_annotation_20240311103911125#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/djakacki/training/main/dalloway_exercise_dtoc.xml",
@@ -2762,7 +2762,7 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/training/main/dalloway_exercise_dtoc.xml?correction_annotation_20240311103325190#Selector",
+			"@id": "https://raw.githubusercontent.com/djakacki/training/main/dalloway_exercise_dtoc.xml?correction_annotation_20240311103911125#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[3]/choice"
 		}
@@ -2770,7 +2770,7 @@
 	"oa:hasBody": {
 		"@type": "fabio:Correction",
 		"dc:format": "text/xml",
-		"rdf:value": "why"
+		"rdf:value": "typo"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -2807,7 +2807,7 @@
 				<p xml:id="p_unq_5gt_g1c">No doubt they were not all bound on errands of happiness.
 					There is much more to be said about us than that we walk <placeName key="Westminster" ref="http://www.wikidata.org/entity/Q189960" xml:id="placeName_vnq_5gt_g1c">the streets of Westminster</placeName>.
 						<objectName cert="high" evidence="internal" full="yes" instant="unknown" xml:space="default" type="building">Big Ben</objectName> too is nothing but
-					<choice><sic><sic>steel rods</sic></sic><corr>why</corr></choice> consumed by rust were it not for the care of <orgName type="civic" xml:id="orgName_wnq_5gt_g1c">H. M.'s Office of Works</orgName>. Only for
+					steel rods consumed by rust were it not for the care of <orgName type="civic" xml:id="orgName_wnq_5gt_g1c">H. M.'s Office of Works</orgName>. Only for
 						<persName cert="high" evidence="internal" full="yes" instant="unknown" key="Clarissa Dalloway" xml:space="default" type="fictional" xml:id="persName_xnq_5gt_g1c">Mrs Dalloway</persName> the moment was
 					complete; for <persName key="Clarissa Dalloway" type="fictional" xml:id="persName_ynq_5gt_g1c">Mrs Dalloway</persName>
 					<date>June</date> was fresh. A happy childhood—and it was not to his daughters
@@ -2815,7 +2815,7 @@
 					seemed a fine fellow (weak of course on <orgName type="judicial" xml:id="orgName_a4q_5gt_g1c">the Bench</orgName>); flowers at evening, smoke
 					rising; the caw of rooks falling from ever so high, down down through the
 					October air—there is nothing to take the place of childhood. A leaf of mint
-					brings it back; or a cup cups with a blue ring.</p>
+					brings it back; or a <choice><sic>cup cups</sic><corr>typo</corr></choice> with a blue ring.</p>
 				<p xml:id="p_b4q_5gt_g1c">Poor little wretches, she sighed, and pressed forward. Oh,
 					right under the horses' noses, you little demon! and there she was left on the
 					kerb stretching her hand out, while <persName key="James Dawes" type="fictional" xml:id="persName_c4q_5gt_g1c">Jimmy Dawes</persName> grinned on the further
