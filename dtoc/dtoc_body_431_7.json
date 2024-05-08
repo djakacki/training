@@ -1,0 +1,74 @@
+{
+    "dtocRootUrl": "/libraries/leafdtoc/public/",
+    "input": {
+        "ignoreNamespace": true,
+        "documents": "//div[@type=\u0027chapitre\u0027]",
+        "documentContent": "",
+        "documentTitle": "head",
+        "documentAuthor": "",
+        "documentImages": "",
+        "documentNotes": "",
+        "documentLinks": "",
+        "indexDocument": "//div[@type=\u0027index\u0027]",
+        "inputs": [
+            "https://leaf.bucknell.edu/sites/default/files/2023-07/suzette_ch030.xml",
+            "https://leaf.bucknell.edu/sites/default/files/2023-07/suzette_ch055.xml",
+            "https://leaf.bucknell.edu/sites/default/files/2023-07/suzette_ch056.xml",
+            "https://leaf.bucknell.edu/sites/default/files/2023-07/suzette_ch061.xml",
+            "https://leaf.bucknell.edu/sites/default/files/2023-07/suzette_ch065.xml",
+            "https://leaf.bucknell.edu/sites/default/files/2023-07/suzette_ch067.xml",
+            "https://leaf.bucknell.edu/sites/default/files/2023-07/suzette_ch081.xml",
+            "https://leaf.bucknell.edu/sites/default/files/2023-07/suzette_ch086.xml",
+            "https://leaf.bucknell.edu/sites/default/files/2023-07/suzette_ch098.xml",
+            "https://leaf.bucknell.edu/sites/default/files/2024-03/personnage_index.xml"
+        ],
+         "curation": {
+        "markup": [
+            {
+                "xpath": "//persName[@key='James Augustus Grant']",
+                "label": "Grant, James Augustus"
+            },
+            {
+                "xpath": "//persName[@key='Christoph Colomb']",
+                "label": "Colomb, Christoph"
+            },
+            {
+                "xpath": "//speaker[@n='Eunomia']",
+                "label": "Eunomia"
+            },
+            {
+                "xpath": "//speaker[@n='Honor']",
+                "label": "Honor"
+            },
+            {
+                "xpath": "//speaker[@n='Phemis']",
+                "label": "Phemis (the Herald)"
+            },
+            {
+                "xpath": "//speaker[@n='Plutus']",
+                "label": "Plutus"
+            },
+            {
+                "xpath": "//lg[@type='song']",
+                "label": "Songs"
+            },
+            {
+                "xpath": "//stage",
+                "label": "Stage Directions"
+            }
+        ],
+            "toc": [
+                "241717a5a1cce4c02d07eee8907e229b133b64fd8adfaa6bf9ad7d857533d3f0",
+                "a56b0f6be113432b686f28983192280ee8f68016dd4bbae7e6ed567c7ce3226e",
+                "f14efba33385e4cad7e370e7d19f874889b3714296213967e77f29ac0c0a2f10",
+                "fc85fd0bed5a8c96837c000e456edbbd179ce5d84eee33b28ca6e3dea3529ff5",
+                "cd3bed43486d8ad722fdf6c5a9b94c00c356aac9130bfa94db28c8a5d6c4c5c7",
+                "493c0cafe3be87112af1121c2760d1f649756ee58eafad23c295c34d878940e5",
+                "94c5eef5642cebf94472e5b91070caed52d337dbeb06e82e89d562e82f1b587a",
+                "fc69f9f0c175112aa41c9b60f46b445db3e925c6d512bdf762cc85f576d9b889",
+                "588eca82655a067493be162343bedc396c0c7159010f61363d3ed5451ccc1539"
+            ]
+        }
+    },
+    "autoCompleteVal": "Livre de lecture courante (68)"
+}
