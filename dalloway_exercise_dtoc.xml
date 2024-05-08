@@ -3162,7 +3162,7 @@
 						type="clothing">silk stockings</objectName> quivering silver she looked at
 					the lady, sloping shouldered, her hand drooping, her bag slipping, her eyes
 					vacantly on the floor. It would be intolerable if dowdy women came to her party!
-					Would one have liked <persName xml:id="keat01" key="John Keats" type="real"
+					Would one have liked <persName xml:id="keats01" key="John Keats" type="real"
 						>Keats</persName> if he had worn <objectName type="clothing">red
 						socks</objectName>? Oh, at last—she drew into the <objectName
 						type="furniture">counter</objectName> and it flashed into her mind:</p>
@@ -3306,11 +3306,11 @@
 				<list xml:id="authors">
 					<head>Authors</head>
 					<item xml:id="author_list">
-						<ref target="#keat01 #shak01 #shel01">Authors:</ref>
+						<ref target="#keats1 #shak01 #shel01">Authors:</ref>
 						<list>
 							<head>Authors:</head>
 							<item xml:id="author_01">
-								<ref target="#keat01">Keats, John</ref>
+								<ref target="#keats1">Keats, John</ref>
 							</item>
 							<item xml:id="author_02">
 								<ref target="#shak01 #">Shakespeare, William</ref>
@@ -3368,7 +3368,7 @@
 								<ref target="#cymb1 #cymb2">Cymbeline (William Shakespeare)</ref>
 							</item>
 							<item>
-								<ref target="#keat1 #keats2">Adonais: An Elegy on the Death of John Keats (Shelley)</ref>
+								<ref target="#keats1 #keats2">Adonais: An Elegy on the Death of John Keats (Shelley)</ref>
 							</item>
 							<item>
 								<ref target="#cran01">Cranford (Elizabeth Gaskell)</ref>
