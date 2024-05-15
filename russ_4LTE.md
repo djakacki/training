@@ -2,7 +2,8 @@
 # Women Talking, Women Thinking
 \[Note: *Various excerpts from the forthcoming novel, On Strike Against God, to be published in the spring of 1978 by Out and Out Books.\]
 
-*[Joanna Russ](http://www.wikidata.org/entity/Q265270) * 
+*[Joanna Russ](http://www.wikidata.org/entity/Q265270) *
+
 What did we talk about? I don't remember. We talked so hard and sat so still that I got cramps in my knees. We had too many cups of tea and then didn't want to leave the table to go to the bathroom because we didn’t want to stop talking. You will think we talked of revolution but we didn't. Nor did we talk of our own souls. Nor of sewing. Nor of babies. Nor of departmental intrigue. It was politics if by politics you mean the laboratory talk that characters in bad movies are perpetually trving to convey (unsuccessfully) when they Wrinkle Their Wee Brows and say (valiantly—dutifully—after all, they didn’t write it) "But, Doctor, doesn’t that violate Finagle's Constant?" I staggered to the bathroom, released floods of tea, and returned to the kitchen to talk. It was professional talk. It left me grey-faced and with such concentration that I began to develop a headache. We talked about [
 \[Note: George Eliot is the pen name of Mary Ann Evans\]
 Mary Ann Evans's](http://www.wikidata.org/entity/Q131333) loss of faith, about [Emily Brontë](http://www.wikidata.org/entity/Q80137) 's isolation, about [Charlotte Brontë](http://www.wikidata.org/entity/Q127332) 's blinding cloud, about the split in [Virginia Woolf](http://www.wikidata.org/entity/Q40909) 's head and the split in her economic situation. We talked about [Lady Murasaki](http://www.wikidata.org/entity/Q81731) , who wrote in a form that no respectable man would touch
